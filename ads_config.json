@@ -5,12 +5,12 @@
       {
         "id": "home_001",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.png",
-        "linkUrl": "https://https://witchform.com/payform/WYRZFZWUZ0"
+        "linkUrl": "https://witchform.com/payform/WYRZFZWUZ0"
       },
       {
         "id": "home_002",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.png",
-        "linkUrl": "https://https://witchform.com/payform/?uuid=JLWJLRYU0N"
+        "linkUrl": "https://witchform.com/payform/?uuid=JLWJLRYU0N"
       },
       {
         "id": "home_003",
@@ -30,4 +30,5 @@
     ]
   }
 }
+
 
