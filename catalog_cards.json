@@ -3,9 +3,82 @@
   "cards": [
     {
       "label": "블루아카이브 카탈로그",
-      "bannerAsset": "assets/banners/catalog.png",
-      "url": "https://drive.google.com/file/d/1zsDTbTz1dgIkvjiWBPpZVbx3fqzGkm1B/view?usp=sharing",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.png",
+      "url": "https://illustar.net/",
       "badge": "NEW"
-    }
+    },
+    {
+      "label": "스텔라이브 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "호요버스 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.png",
+      "url": "https://witchform.com/w/festa/info/HSR"
+    },
+    {
+      "label": "니케 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "트릭컬 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "명조 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "명일방주/엔드필드 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "이터널리턴 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "우마무스메 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "림버스 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "홀로라이브 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog11.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "버츄버/스트리머 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog12.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "1차 창작 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog13.png",
+      "url": "https://comicw.co.kr/",
+      "badge": "UPDATED"
+    },
   ]
 }
+
+
