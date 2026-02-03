@@ -16,9 +16,36 @@
         "id": "home_003",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.png",
         "linkUrl": "https://witchform.com/payform/?uuid=XZEIUPN7PM"
+       },
+       {
+        "id": "home_004",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.png",
+        "linkUrl": "https://witchform.com/payform/E7JSCZXPVN"
+       } 
+    ]
+  },
+
+  "homeBanners2": {
+    "enabled": true,
+    "items": [
+      {
+        "id": "home2_001",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.png",
+        "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
+      },
+      {
+        "id": "home2_002",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner6.png",
+        "linkUrl": "https://x.com/ne_reureu"
+      },
+      {
+        "id": "home2_003",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner7.png",
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=959705"
       }
     ]
   },
+
   "startupPopup": {
     "enabled": true,
     "items": [
