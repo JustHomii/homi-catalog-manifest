@@ -15,13 +15,33 @@
       {
         "id": "home_003",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.jpg",
-        "linkUrl": "https://witchform.com/payform/?uuid=XZEIUPN7PM"
+        "linkUrl": "https://witchform.com/payform/E7JSCZXPVN"
        },
        {
         "id": "home_004",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.jpg",
-        "linkUrl": "https://witchform.com/payform/E7JSCZXPVN"
-       } 
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=959705"
+       },
+       {
+        "id": "home_005",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.jpg",
+        "linkUrl": "https://x.com/_standupp__/status/2019007610150883466?s=20"
+       },
+       {
+        "id": "home_006",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner6.jpg",
+        "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
+       },
+       {
+        "id": "home_007",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner7.jpg",
+        "linkUrl": "https://x.com/ne_reureu/status/2018212574907744593?s=20"
+       },
+       {
+        "id": "home_008",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner8.jpg",
+        "linkUrl": "https://illustar.net/circle-participation/info/16730?page=1&search=%EB%A0%88%EB%98%90%EC%83%B5"
+       }
     ]
   },
 
@@ -29,19 +49,9 @@
     "enabled": true,
     "items": [
       {
-        "id": "home2_001",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.jpg",
+        "id": "home2_009",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner9.jpg",
         "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
-      },
-      {
-        "id": "home2_002",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner6.jpg",
-        "linkUrl": "https://x.com/ne_reureu"
-      },
-      {
-        "id": "home2_003",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner7.jpg",
-        "linkUrl": "https://witchform.com/deposit_form.php?idx=959705"
       }
     ]
   },
@@ -57,6 +67,7 @@
     ]
   }
 }
+
 
 
 
