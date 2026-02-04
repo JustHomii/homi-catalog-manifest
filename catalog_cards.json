@@ -16,7 +16,7 @@
     {
       "label": "호요버스 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.png",
-      "url": "https://witchform.com/w/festa/info/HSR"
+      "url": "https://witchform.com/w/festa/info/HSR",
       "badge": "NEW"
     },
     {
@@ -87,6 +87,8 @@
     }
   ]
 }
+
+
 
 
 
