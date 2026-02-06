@@ -84,9 +84,16 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog14.jpg",
       "url": "https://comicw.co.kr/",
       "badge": "NEW"
+    },
+    {
+      "label": "보컬로이드 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog14.jpg",
+      "url": "https://comicw.co.kr/",
+      "badge": "NEW"
     }
   ]
 }
+
 
 
 
