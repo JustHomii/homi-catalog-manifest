@@ -41,6 +41,21 @@
         "id": "home_008",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner8.jpg",
         "linkUrl": "https://illustar.net/circle-participation/info/16730?page=1&search=%EB%A0%88%EB%98%90%EC%83%B5"
+       },
+       {
+        "id": "home_009",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner9.jpg",
+        "linkUrl": "https://witchform.com/payform/M2UHD6Z2ZS"
+       },
+       {
+        "id": "home_010",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner10.jpg",
+        "linkUrl": "https://x.com/subin_2011/status/2018610608888012907?s=20"
+       },
+       {
+        "id": "home_011",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner11.jpg",
+        "linkUrl": "https://witchform.com/payform/?uuid=FCLADQADZG"
        }
     ]
   },
@@ -50,7 +65,7 @@
     "items": [
       {
         "id": "home2_009",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner9.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner12.jpg",
         "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
       }
     ]
@@ -67,6 +82,7 @@
     ]
   }
 }
+
 
 
 
