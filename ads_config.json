@@ -67,6 +67,11 @@
         "id": "home2_009",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner12.jpg",
         "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
+      },
+      {
+        "id": "home2_010",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner13.jpg",
+        "linkUrl": "https://witchform.com/payform/?uuid=FBM7XDCR7C"
       }
     ]
   },
@@ -82,6 +87,7 @@
     ]
   }
 }
+
 
 
 
