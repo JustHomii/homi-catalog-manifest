@@ -73,6 +73,11 @@
         "id": "home2_011",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_3.webp",
         "linkUrl": "https://x.com/subin_2011/status/2018610608888012907?s=20"
+      },
+      {
+        "id": "home2_012",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_4.webp",
+        "linkUrl": "https://x.com/itpiki/status/2020380177923248558?s=20"
       }
     ]
   },
@@ -99,6 +104,7 @@
     ]
   }
 }
+
 
 
 
