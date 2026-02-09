@@ -60,6 +60,16 @@
     "enabled": true,
     "items": [
       {
+        "id": "home2_007",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/illmandong_1.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=JLWJLRYU0N"
+      },
+      {
+        "id": "home2_008",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/illmandong_2.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=JLWJLRYU0N"
+      },
+      {
         "id": "home2_009",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_1.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=JLWJLRYU0N"
@@ -89,6 +99,16 @@
         "id": "cat_001",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/catalog_ads/catalog_banner1.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=KXA9BW2QZV"
+      },
+      {
+        "id": "cat_002",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/catalog_ads/catalog_banner2.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=KXA9BW2QZV"
+      },
+      {
+        "id": "cat_003",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/catalog_ads/catalog_banner3.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=KXA9BW2QZV"
       }
     ]
   },
@@ -104,6 +124,7 @@
     ]
   }
 }
+
 
 
 
