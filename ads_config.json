@@ -61,17 +61,17 @@
     "items": [
       {
         "id": "home2_006",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/illmandong_1.webp",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/ilmangdong_1.webp",
         "linkUrl": "https://gall.dcinside.com/mgallery/board/view?id=stellive&no=6097003"
       },
       {
         "id": "home2_007",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/illmandong_2.webp",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/ilmangdong_2.webp",
         "linkUrl": "https://gall.dcinside.com/mgallery/board/view?id=projectmx&no=17034490"
       },
       {
         "id": "home2_008",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/illmandong_3.webp",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/ilmangdong_3.webp",
         "linkUrl": "https://gall.dcinside.com/mgallery/board/view?id=projectmx&no=16408680"
       },
       {
@@ -129,6 +129,7 @@
     ]
   }
 }
+
 
 
 
