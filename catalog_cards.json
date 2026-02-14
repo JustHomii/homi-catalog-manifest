@@ -17,7 +17,7 @@
       "label": "호요버스 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.jpg",
       "url": "https://drive.google.com/file/d/1FNT0Fi89kyK55jh9nqLyUKY3mAUWiJ0v/view?usp=sharing",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "니케 카탈로그",
@@ -82,8 +82,8 @@
     {
       "label": "코스플레이 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog14.jpg",
-      "url": "",
-      "badge": ""
+      "url": "https://drive.google.com/file/d/1gOa6xG3zXeYI7ElOGYfSb2f3VO3TGR5V/view?usp=sharing",
+      "badge": "NEW"
     },
     {
       "label": "보컬로이드 카탈로그",
@@ -93,6 +93,7 @@
     }
   ]
 }
+
 
 
 
