@@ -3,6 +3,16 @@
     "enabled": true,
     "items": [
       {
+        "id": "home_014",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner17.webp",
+        "linkUrl": "https://x.com/amejaga/status/2022656977244164441?s=20"
+      },
+      {
+        "id": "home_013",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner18.webp",
+        "linkUrl": "https://x.com/amejaga/status/2022656977244164441?s=20"
+      },
+      {
         "id": "home_001",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.webp",
         "linkUrl": "https://witchform.com/payform/WYRZFZWUZ0"
@@ -129,6 +139,7 @@
     ]
   }
 }
+
 
 
 
