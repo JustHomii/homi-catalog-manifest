@@ -1,9 +1,10 @@
 {
   "enabled": true,
-  "version": 1,
+  "version": 2,
   "title": "카탈로그 앱 업데이트!",
-  "message": "새 기능과 개선사항이 반영되었어요. 지금 업데이트할까요?",
+  "message": "일러스타페스10 배치도가 수정되었습니다!",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ilmangdong.homicatalog",
   "force": false
 }
+
 
