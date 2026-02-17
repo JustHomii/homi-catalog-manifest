@@ -91,21 +91,36 @@
       },
       {
         "id": "home2_010",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_8.webp",
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=980859"
+      },
+      {
+        "id": "home2_011",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_9.webp",
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=983560"
+      },
+      {
+        "id": "home2_012",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_10.webp",
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=983560"
+      },
+      {
+        "id": "home2_013",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_1.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=JLWJLRYU0N"
       },
       {
-        "id": "home2_011",
+        "id": "home2_014",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_2.webp",
         "linkUrl": "https://witchform.com/payform/M2UHD6Z2ZS"
       },
       {
-        "id": "home2_012",
+        "id": "home2_015",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_3.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=QESTIAERY7"
       },
       {
-        "id": "home2_013",
+        "id": "home2_016",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2_4.webp",
         "linkUrl": "https://x.com/itpiki/status/2020380177923248558?s=20"
       }
@@ -144,6 +159,7 @@
     ]
   }
 }
+
 
 
 
