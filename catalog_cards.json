@@ -1,98 +1,15 @@
 {
-  "eventTitle": "일러스타페스 10 부스 카탈로그",
+  "eventTitle": "코믹월드 330 일산 / 스타레일 온리전 카탈로그!",
   "cards": [
     {
-      "label": "블루아카이브 카탈로그",
+      "label": "견본 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.jpg",
-      "url": "https://drive.google.com/drive/folders/15_bZ3cOcdD53faU6eA2mMedM6xwRBjyi?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "스텔라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.jpg",
-      "url": "https://drive.google.com/drive/folders/1yfzXi_8MukxtbXeqj_KooYuOK4DtcKH3?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "호요버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.jpg",
-      "url": "https://drive.google.com/file/d/1FNT0Fi89kyK55jh9nqLyUKY3mAUWiJ0v/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "니케 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.jpg",
-      "url": "https://drive.google.com/file/d/1m9W6bfdigsjXQn3sO5WK8HScfmQohRDx/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "트릭컬 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.jpg",
-      "url": "https://drive.google.com/file/d/1TkoNEs7tcuPbpwFd8nvx69t5E-K1w3fO/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "명조 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.jpg",
-      "url": "https://drive.google.com/file/d/1PAkeNWBExPaQSYfMULVi0oOGPLOf5BYY/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "명일방주/엔드필드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.jpg",
-      "url": "https://drive.google.com/file/d/12neMvbfXWnEtLo8oVyt_qKH3vg6v98Ly/view?usp=drivesdk",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "이터널리턴 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.jpg",
-      "url": "https://drive.google.com/file/d/1zjwwl1z6HFZWMJO7EsaAIVCpu-TPAv9o/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "우마무스메 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.jpg",
-      "url": "https://drive.google.com/file/d/1dz0FJeavWuhBPypEWl5wVQsYmTBfsdmZ/view?usp=drivesdk",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "림버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.jpg",
-      "url": "https://drive.google.com/file/d/1nNzca74sT5MPPSQ_63HojGKtKMdzODdi/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "홀로라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog11.jpg",
-      "url": "https://drive.google.com/file/d/1CxjFt7oS6UsH14YkDYmZp5QsHUI1AXQj/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "버츄버/스트리머 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog12.jpg",
-      "url": "https://drive.google.com/file/d/1Apw4W8wqC1rmImsyMzSKCswtsLvYUvQb/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "1차 창작 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog13.jpg",
-      "url": "https://drive.google.com/file/d/19qHG90XzDPQlJHCUbhoEx6rbH33uojtG/view?usp=sharing",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "코스플레이 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog14.jpg",
-      "url": "https://drive.google.com/file/d/1gOa6xG3zXeYI7ElOGYfSb2f3VO3TGR5V/view?usp=sharing",
-      "badge": "NEW"
-    },
-    {
-      "label": "보컬로이드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog15.jpg",
-      "url": "https://drive.google.com/file/d/1iQdadLu6qHcSCUnUYkVjdsEpqOoNwluy/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1cMn9Mu_wN_7yzl0-z7CmO6m5Os41uT8a/view?usp=sharing",
       "badge": "UPDATED"
     }
   ]
 }
+
 
 
 
