@@ -3,18 +3,19 @@
   "cards": [
     {
       "label": "블루아카이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
       "url": "https://drive.google.com/drive/folders/1Rx8ibSCjOWLftsEn5tH2q786ydOMDJQb?usp=sharing",
       "badge": "NEW"
     },
     {
       "label": "스텔라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
       "url": "https://drive.google.com/file/d/1pzUBOpVNlkO2ZIc8cCcDBp_f1E-HeLxz/view?usp=sharing",
       "badge": "NEW"
     }
   ]
 }
+
 
 
 
