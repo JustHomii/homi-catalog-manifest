@@ -1,10 +1,11 @@
 {
   "enabled": true,
-  "version": 2,
+  "version": 3,
   "title": "카탈로그 앱 업데이트!",
-  "message": "일러스타페스10 배치도가 수정되었습니다!",
+  "message": "코믹월드 330 일산 부스목록을 최신화하었습니다!",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ilmangdong.homicatalog",
   "force": false
 }
+
 
 
