@@ -57,12 +57,18 @@
     "items": [
       {
         "id": "popup_001",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/popup2.webp",
+        "linkUrl": "https://witchform.com/deposit_form.php?idx=993998"
+      },
+      {
+        "id": "popup_002",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/popup.webp",
         "linkUrl": "https://x.com/fcdie2026/status/2026552847996010519?s=20"
       }
     ]
   }
 }
+
 
 
 
