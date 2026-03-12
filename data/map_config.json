@@ -1,0 +1,367 @@
+{
+  "eventId": "comicworld330",
+  "version": 1,
+  "mapImageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/maps/ComicWorld_330_5.webp",
+  "columns": [
+    {
+      "prefix": "BA",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 32,
+          "left": 0.19758,
+          "top": 0.915394,
+          "width": 0.604421,
+          "height": 0.0273
+        }
+      ]
+    },
+    {
+      "prefix": "BB",
+      "direction": "topToBottom",
+      "segments": [
+        {
+          "from": 1,
+          "to": 28,
+          "left": 0.197619,
+          "top": 0.870967,
+          "width": 0.60338,
+          "height": 0.027262
+        },
+        {
+          "from": 29,
+          "to": 32,
+          "left": 0.816703,
+          "top": 0.873086,
+          "width": 0.036864,
+          "height": 0.045862
+        }
+      ]
+    },
+    {
+      "prefix": "BC",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 28,
+          "left": 0.197604,
+          "top": 0.840215,
+          "width": 0.603404,
+          "height": 0.027343
+        },
+        {
+          "from": 29,
+          "to": 32,
+          "left": 0.81674,
+          "top": 0.822118,
+          "width": 0.036856,
+          "height": 0.045782
+        }
+      ]
+    },
+    {
+      "prefix": "BD",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 32,
+          "left": 0.197621,
+          "top": 0.792259,
+          "width": 0.604444,
+          "height": 0.027378
+        }
+      ]
+    },
+    {
+      "prefix": "BE",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 32,
+          "left": 0.197578,
+          "top": 0.761558,
+          "width": 0.604476,
+          "height": 0.027294
+        },
+        {
+          "from": 33,
+          "to": 36,
+          "left": 0.818984,
+          "top": 0.720829,
+          "width": 0.036833,
+          "height": 0.068328
+        }
+      ]
+    },
+    {
+      "prefix": "BF",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.197608,
+          "top": 0.717884,
+          "width": 0.606436,
+          "height": 0.02728
+        }
+      ]
+    },
+    {
+      "prefix": "BG",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.197573,
+          "top": 0.687196,
+          "width": 0.606468,
+          "height": 0.027374
+        }
+      ]
+    },
+    {
+      "prefix": "BH",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.196447,
+          "top": 0.638662,
+          "width": 0.654832,
+          "height": 0.027383
+        }
+      ]
+    },
+    {
+      "prefix": "BI",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.196469,
+          "top": 0.607994,
+          "width": 0.654804,
+          "height": 0.027375
+        }
+      ]
+    },
+    {
+      "prefix": "BJ",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.197226,
+          "top": 0.552309,
+          "width": 0.654943,
+          "height": 0.027336
+        }
+      ]
+    },
+    {
+      "prefix": "BK",
+      "direction": "leftToRight",
+      "segments": [
+        {
+          "from": 1,
+          "to": 34,
+          "left": 0.197268,
+          "top": 0.521625,
+          "width": 0.654968,
+          "height": 0.02731
+        }
+      ]
+    },
+    {
+      "prefix": "CA",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.840142,
+          "top": 0.126561,
+          "width": 0.041001,
+          "height": 0.327732
+        }
+      ]
+    },
+    {
+      "prefix": "CB",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.774244,
+          "top": 0.126552,
+          "width": 0.040977,
+          "height": 0.327701
+        }
+      ]
+    },
+    {
+      "prefix": "CC",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.723714,
+          "top": 0.126552,
+          "width": 0.04108,
+          "height": 0.327752
+        }
+      ]
+    },
+    {
+      "prefix": "CD",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.653296,
+          "top": 0.126548,
+          "width": 0.041012,
+          "height": 0.327759
+        }
+      ]
+    },
+    {
+      "prefix": "CE",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.602813,
+          "top": 0.126554,
+          "width": 0.041006,
+          "height": 0.327702
+        }
+      ]
+    },
+    {
+      "prefix": "CF",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.531841,
+          "top": 0.126561,
+          "width": 0.040942,
+          "height": 0.32774
+        }
+      ]
+    },
+    {
+      "prefix": "CG",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.481207,
+          "top": 0.126554,
+          "width": 0.040955,
+          "height": 0.327757
+        }
+      ]
+    },
+    {
+      "prefix": "CH",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.411766,
+          "top": 0.126552,
+          "width": 0.041052,
+          "height": 0.327754
+        }
+      ]
+    },
+    {
+      "prefix": "CI",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.361185,
+          "top": 0.126556,
+          "width": 0.041009,
+          "height": 0.327728
+        }
+      ]
+    },
+    {
+      "prefix": "CJ",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.290201,
+          "top": 0.126546,
+          "width": 0.040968,
+          "height": 0.327741
+        }
+      ]
+    },
+    {
+      "prefix": "CK",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.23971,
+          "top": 0.126563,
+          "width": 0.040981,
+          "height": 0.327716
+        }
+      ]
+    },
+    {
+      "prefix": "CL",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.169593,
+          "top": 0.126601,
+          "width": 0.040648,
+          "height": 0.327565
+        }
+      ]
+    },
+    {
+      "prefix": "CM",
+      "direction": "bottomToTop",
+      "segments": [
+        {
+          "from": 1,
+          "to": 56,
+          "left": 0.118925,
+          "top": 0.126745,
+          "width": 0.040437,
+          "height": 0.327519
+        }
+      ]
+    }
+  ]
+}
