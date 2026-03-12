@@ -6,28 +6,28 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
       "url": "https://drive.google.com/drive/folders/1Rx8ibSCjOWLftsEn5tH2q786ydOMDJQb?usp=sharing",
       "sourceUrl": "https://x.com/betanonbeet/status/2012467190281404898?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "스텔라이브 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
       "url": "https://drive.google.com/file/d/1pzUBOpVNlkO2ZIc8cCcDBp_f1E-HeLxz/view?usp=sharing",
       "sourceUrl": "https://x.com/salmonjeti/status/2021911346988876077?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "호요버스 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
       "url": "https://drive.google.com/file/d/1aIqnh2qGlhg3xCk6snpF85S2NnZXyB6r/view?usp=sharing",
       "sourceUrl": "https://x.com/HAYUN_ART/status/2022596689073442930?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "니케 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
       "url": "https://drive.google.com/file/d/1oIcSIr3DOI8Wyf-ro7dRPgsZ05ZpwMvG/view?usp=sharing",
       "sourceUrl": "https://x.com/onedream_00/status/2022241838816805251?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "트릭컬 카탈로그",
@@ -55,17 +55,32 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.webp",
       "url": "https://drive.google.com/file/d/18BG2SIwR8XX8ZFclMJE0wroEIyLJzsM7/view?usp=sharing",
       "sourceUrl": "https://x.com/chohui94/status/1927691430970958329?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
-      "label": "이터널리 카탈로그",
+      "label": "이터널리턴 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.webp",
       "url": "https://drive.google.com/file/d/17SzkG4PsEcJAYv8EOEBMYcFhc6bFJ9ZK/view?usp=sharing",
       "sourceUrl": "https://www.pixiv.net/artworks/137240395",
+      "badge": "UPDATED"
+    },
+    {
+      "label": "홀로라이브 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.webp",
+      "url": "https://drive.google.com/file/d/1-mqbsQphpiIDeOPhR8D89Ql5r-_FCl_W/view?usp=sharing",
+      "sourceUrl": "https://x.com/doghyu_/status/2029385157115793553?s=20",
+      "badge": "NEW"
+    },
+    {
+      "label": "버츄버/스트리머 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog11.webp",
+      "url": "https://drive.google.com/file/d/1xzKVzcP3IO4OH3_jbczIwz6JbhU6Qqj3/view?usp=sharing",
+      "sourceUrl": "https://x.com/Fai_314_/status/2031908033597751747?s=20",
       "badge": "NEW"
     }
   ]
 }
+
 
 
 
