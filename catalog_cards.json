@@ -1,81 +1,11 @@
 {
-  "eventTitle": "코믹월드 330 일산 / 스타레일 온리전 카탈로그!",
+  "eventTitle": "스타레일 온리전 카탈로그!",
   "cards": [
     {
-      "label": "블루아카이브 카탈로그",
+      "label": "스타레일 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
-      "url": "https://drive.google.com/drive/folders/1Rx8ibSCjOWLftsEn5tH2q786ydOMDJQb?usp=sharing",
-      "sourceUrl": "https://x.com/betanonbeet/status/2012467190281404898?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "스텔라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
-      "url": "https://drive.google.com/file/d/1pzUBOpVNlkO2ZIc8cCcDBp_f1E-HeLxz/view?usp=sharing",
-      "sourceUrl": "https://x.com/salmonjeti/status/2021911346988876077?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "호요버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
-      "url": "https://drive.google.com/file/d/1aIqnh2qGlhg3xCk6snpF85S2NnZXyB6r/view?usp=sharing",
-      "sourceUrl": "https://x.com/HAYUN_ART/status/2022596689073442930?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "니케 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
-      "url": "https://drive.google.com/file/d/1oIcSIr3DOI8Wyf-ro7dRPgsZ05ZpwMvG/view?usp=sharing",
-      "sourceUrl": "https://x.com/onedream_00/status/2022241838816805251?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "트릭컬 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.webp",
-      "url": "https://drive.google.com/file/d/1Q2NOPJelES9rButrzy7LzwLAZB7u2KnY/view?usp=sharing",
-      "sourceUrl": "https://x.com/Minchi_anda/status/2024299106014044407?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "림버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.webp",
-      "url": "https://drive.google.com/file/d/1fYSGdmgTvzsft59Bf_VBKONBqKWC8xIL/view?usp=sharing",
-      "sourceUrl": "https://x.com/seojee10/status/2028493029972340745?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "명조 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.webp",
-      "url": "https://drive.google.com/file/d/169ZIo9SvZietO-upnzxN4jwmTitkOKMa/view?usp=sharing",
-      "sourceUrl": "https://x.com/xxxina_inaxxx/status/2029048823050535070?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "명일방주 엔드필드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.webp",
-      "url": "https://drive.google.com/file/d/18BG2SIwR8XX8ZFclMJE0wroEIyLJzsM7/view?usp=sharing",
-      "sourceUrl": "https://x.com/chohui94/status/1927691430970958329?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "이터널리턴 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.webp",
-      "url": "https://drive.google.com/file/d/17SzkG4PsEcJAYv8EOEBMYcFhc6bFJ9ZK/view?usp=sharing",
-      "sourceUrl": "https://www.pixiv.net/artworks/137240395",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "홀로라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.webp",
-      "url": "https://drive.google.com/file/d/1-mqbsQphpiIDeOPhR8D89Ql5r-_FCl_W/view?usp=sharing",
-      "sourceUrl": "https://x.com/doghyu_/status/2029385157115793553?s=20",
-      "badge": "NEW"
-    },
-    {
-      "label": "버츄버/스트리머 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog11.webp",
-      "url": "https://drive.google.com/file/d/1xzKVzcP3IO4OH3_jbczIwz6JbhU6Qqj3/view?usp=sharing",
-      "sourceUrl": "https://x.com/Fai_314_/status/2031908033597751747?s=20",
+      "url": "https://drive.google.com/file/d/16-j71HvoAs8UZm0OlkFwEzXREzeSVc5W/view?usp=sharing",
+      "sourceUrl": "https://x.com/sugarcanedove/status/2004596677983023356?s=20",
       "badge": "NEW"
     }
   ]
