@@ -1,0 +1,339 @@
+{
+  "eventId": "Kivotoscloud",
+  "version": 3,
+  "mapImageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/maps/Kivotoscloud12.jpg",
+  "columns": [
+    {
+      "prefix": "C",
+      "segments": [
+        {
+          "from": 1,
+          "to": 2,
+          "direction": "bottomToTop",
+          "left": 0.626829,
+          "top": 0.593171,
+          "width": 0.067642,
+          "height": 0.094634
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "direction": "bottomToTop",
+          "left": 0.62542,
+          "top": 0.48878,
+          "width": 0.067642,
+          "height": 0.090732
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "direction": "bottomToTop",
+          "left": 0.622602,
+          "top": 0.349268,
+          "width": 0.073279,
+          "height": 0.091707
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "direction": "bottomToTop",
+          "left": 0.624011,
+          "top": 0.241951,
+          "width": 0.069051,
+          "height": 0.089756
+        },
+        {
+          "from": 9,
+          "to": 10,
+          "direction": "bottomToTop",
+          "left": 0.62542,
+          "top": 0.136585,
+          "width": 0.066233,
+          "height": 0.090732
+        }
+      ]
+    },
+    {
+      "prefix": "D",
+      "segments": [
+        {
+          "from": 1,
+          "to": 2,
+          "direction": "leftToRight",
+          "left": 0.259024,
+          "top": 0.044878,
+          "width": 0.133875,
+          "height": 0.046829
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "direction": "leftToRight",
+          "left": 0.416856,
+          "top": 0.043902,
+          "width": 0.132466,
+          "height": 0.045854
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "direction": "leftToRight",
+          "left": 0.570461,
+          "top": 0.045854,
+          "width": 0.133875,
+          "height": 0.044878
+        }
+      ]
+    },
+    {
+      "prefix": "K",
+      "segments": [
+        {
+          "from": 1,
+          "to": 2,
+          "direction": "bottomToTop",
+          "left": 0.129377,
+          "top": 0.689756,
+          "width": 0.067642,
+          "height": 0.089756
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "direction": "bottomToTop",
+          "left": 0.127967,
+          "top": 0.581463,
+          "width": 0.066233,
+          "height": 0.091707
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "direction": "bottomToTop",
+          "left": 0.132195,
+          "top": 0.474146,
+          "width": 0.066233,
+          "height": 0.091707
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "direction": "bottomToTop",
+          "left": 0.130786,
+          "top": 0.323902,
+          "width": 0.066233,
+          "height": 0.091707
+        },
+        {
+          "from": 9,
+          "to": 10,
+          "direction": "bottomToTop",
+          "left": 0.127967,
+          "top": 0.21561,
+          "width": 0.07187,
+          "height": 0.092683
+        },
+        {
+          "from": 11,
+          "to": 12,
+          "direction": "bottomToTop",
+          "left": 0.132195,
+          "top": 0.110244,
+          "width": 0.060596,
+          "height": 0.090732
+        }
+      ]
+    },
+    {
+      "prefix": "L",
+      "segments": [
+        {
+          "from": 1,
+          "to": 1,
+          "direction": "bottomToTop",
+          "left": 0.783252,
+          "top": 0.478049,
+          "width": 0.067642,
+          "height": 0.096585
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "direction": "bottomToTop",
+          "left": 0.78607,
+          "top": 0.33561,
+          "width": 0.064824,
+          "height": 0.093659
+        },
+        {
+          "from": 4,
+          "to": 4,
+          "direction": "bottomToTop",
+          "left": 0.783252,
+          "top": 0.129756,
+          "width": 0.066233,
+          "height": 0.092683
+        },
+        {
+          "from": 5,
+          "to": 5,
+          "direction": "bottomToTop",
+          "left": 0.781843,
+          "top": 0.065366,
+          "width": 0.067642,
+          "height": 0.045854
+        }
+      ]
+    },
+    {
+      "prefix": "S",
+      "segments": [
+        {
+          "from": 1,
+          "to": 1,
+          "direction": "bottomToTop",
+          "left": 0.53664,
+          "top": 0.598049,
+          "width": 0.066233,
+          "height": 0.091707
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "direction": "bottomToTop",
+          "left": 0.532412,
+          "top": 0.48878,
+          "width": 0.070461,
+          "height": 0.091707
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "direction": "bottomToTop",
+          "left": 0.53664,
+          "top": 0.350244,
+          "width": 0.064824,
+          "height": 0.087805
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "direction": "bottomToTop",
+          "left": 0.53664,
+          "top": 0.24,
+          "width": 0.064824,
+          "height": 0.091707
+        },
+        {
+          "from": 8,
+          "to": 9,
+          "direction": "bottomToTop",
+          "left": 0.53523,
+          "top": 0.134634,
+          "width": 0.066233,
+          "height": 0.093659
+        }
+      ]
+    },
+    {
+      "prefix": "T",
+      "segments": [
+        {
+          "from": 1,
+          "to": 2,
+          "direction": "bottomToTop",
+          "left": 0.378808,
+          "top": 0.596098,
+          "width": 0.067642,
+          "height": 0.090732
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "direction": "bottomToTop",
+          "left": 0.377398,
+          "top": 0.487805,
+          "width": 0.067642,
+          "height": 0.090732
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "direction": "bottomToTop",
+          "left": 0.375989,
+          "top": 0.303415,
+          "width": 0.069051,
+          "height": 0.086829
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "direction": "bottomToTop",
+          "left": 0.377398,
+          "top": 0.194146,
+          "width": 0.070461,
+          "height": 0.089756
+        },
+        {
+          "from": 9,
+          "to": 9,
+          "direction": "bottomToTop",
+          "left": 0.377398,
+          "top": 0.133659,
+          "width": 0.069051,
+          "height": 0.045854
+        }
+      ]
+    },
+    {
+      "prefix": "V",
+      "segments": [
+        {
+          "from": 1,
+          "to": 2,
+          "direction": "bottomToTop",
+          "left": 0.285799,
+          "top": 0.595122,
+          "width": 0.067642,
+          "height": 0.091707
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "direction": "bottomToTop",
+          "left": 0.285799,
+          "top": 0.48878,
+          "width": 0.063415,
+          "height": 0.093659
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "direction": "bottomToTop",
+          "left": 0.287209,
+          "top": 0.302439,
+          "width": 0.063415,
+          "height": 0.091707
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "direction": "bottomToTop",
+          "left": 0.282981,
+          "top": 0.196098,
+          "width": 0.070461,
+          "height": 0.089756
+        },
+        {
+          "from": 9,
+          "to": 9,
+          "direction": "bottomToTop",
+          "left": 0.285799,
+          "top": 0.133659,
+          "width": 0.064824,
+          "height": 0.046829
+        }
+      ]
+    }
+  ]
+}
