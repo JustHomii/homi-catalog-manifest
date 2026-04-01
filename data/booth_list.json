@@ -1,0 +1,366 @@
+{
+  "eventId": "illustar10",
+  "updatedAt": "2026-04-02",
+  "items": [
+    {
+      "boothNo": "K1",
+      "artist": "HEXAA 잼토참",
+      "boothName": "키보토스 로망실현부",
+      "genre": ""
+    },
+    {
+      "boothNo": "K2",
+      "artist": "라떼",
+      "boothName": "호제비 분양해요",
+      "genre": ""
+    },
+    {
+      "boothNo": "K3",
+      "artist": "수환 사호 Drake",
+      "boothName": "봄맞이 방과후",
+      "genre": ""
+    },
+    {
+      "boothNo": "K4",
+      "artist": "아이니 부원태",
+      "boothName": "돈까스 팔루그",
+      "genre": ""
+    },
+    {
+      "boothNo": "K5",
+      "artist": "우지기",
+      "boothName": "키보토스 만화회",
+      "genre": ""
+    },
+    {
+      "boothNo": "K6",
+      "artist": "APPLECARAMEL",
+      "boothName": "APPLE 마법공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "K7",
+      "artist": "범범",
+      "boothName": "헤일로를 잊지마세요!",
+      "genre": ""
+    },
+    {
+      "boothNo": "K8",
+      "artist": "",
+      "boothName": "KIVOTOS DIY",
+      "genre": ""
+    },
+    {
+      "boothNo": "K9",
+      "artist": "JW Okkimon",
+      "boothName": "끝나고 회식해요 아루",
+      "genre": ""
+    },
+    {
+      "boothNo": "K10",
+      "artist": "챰새",
+      "boothName": "새천년고등학교 신학부",
+      "genre": ""
+    },
+    {
+      "boothNo": "K11",
+      "artist": "ARIA 리스",
+      "boothName": "말랑쫑긋",
+      "genre": ""
+    },
+    {
+      "boothNo": "K12",
+      "artist": "YUNA",
+      "boothName": "메이드인 아카이브",
+      "genre": ""
+    },
+    {
+      "boothNo": "V1",
+      "artist": "82Jhin Soru",
+      "boothName": "낭만학회",
+      "genre": ""
+    },
+    {
+      "boothNo": "V2",
+      "artist": "Millos",
+      "boothName": "쎈쎄이 원위치!",
+      "genre": ""
+    },
+    {
+      "boothNo": "V3",
+      "artist": "Metaljelly",
+      "boothName": "젤리젤리메탈젤리",
+      "genre": ""
+    },
+    {
+      "boothNo": "V4",
+      "artist": "pongdo Domi RaBonG",
+      "boothName": "민초퐁듀",
+      "genre": ""
+    },
+    {
+      "boothNo": "V5",
+      "artist": "초코리엘 갓잼 박세현",
+      "boothName": "☆별의 미카☆",
+      "genre": ""
+    },
+    {
+      "boothNo": "V6",
+      "artist": "GongGo",
+      "boothName": "부스명 몰루겠다!",
+      "genre": ""
+    },
+    {
+      "boothNo": "V7",
+      "artist": "525",
+      "boothName": "깡통따개",
+      "genre": ""
+    },
+    {
+      "boothNo": "V8",
+      "artist": "샵샵",
+      "boothName": "점 선 면",
+      "genre": ""
+    },
+    {
+      "boothNo": "V9",
+      "artist": "だれよ AliceFlag",
+      "boothName": "코코나장조와요",
+      "genre": ""
+    },
+    {
+      "boothNo": "T1",
+      "artist": "商品",
+      "boothName": "게헨나 초등부",
+      "genre": ""
+    },
+    {
+      "boothNo": "T2",
+      "artist": "첫라인 이식빵아",
+      "boothName": "첫라인의 다락방",
+      "genre": ""
+    },
+    {
+      "boothNo": "T3",
+      "artist": "괭카 SPark Atlas 레무네",
+      "boothName": "얼죽아",
+      "genre": ""
+    },
+    {
+      "boothNo": "T4",
+      "artist": "딧딧",
+      "boothName": "백귀야행 대탐험",
+      "genre": ""
+    },
+    {
+      "boothNo": "T5",
+      "artist": "만리 쿵쾅쿵쾅맨",
+      "boothName": "맘마터치",
+      "genre": ""
+    },
+    {
+      "boothNo": "T6",
+      "artist": "치코 깡프로",
+      "boothName": "깡프로덕션",
+      "genre": ""
+    },
+    {
+      "boothNo": "T7",
+      "artist": "Rako",
+      "boothName": "말랑몰루만화부",
+      "genre": ""
+    },
+    {
+      "boothNo": "T8",
+      "artist": "로상",
+      "boothName": "갓챠 연구소",
+      "genre": ""
+    },
+    {
+      "boothNo": "T9",
+      "artist": "커터리",
+      "boothName": "감뀰포장학과",
+      "genre": ""
+    },
+    {
+      "boothNo": "S1",
+      "artist": "HoR 저모 LEN 흰여울 끄웩",
+      "boothName": "이럴수가!!",
+      "genre": ""
+    },
+    {
+      "boothNo": "S2",
+      "artist": "드뾰",
+      "boothName": "농농하다 농농한",
+      "genre": ""
+    },
+    {
+      "boothNo": "S3",
+      "artist": "",
+      "boothName": "쿄보문고",
+      "genre": ""
+    },
+    {
+      "boothNo": "S4",
+      "artist": "",
+      "boothName": "B.C.C.C",
+      "genre": ""
+    },
+    {
+      "boothNo": "S5",
+      "artist": "달세개",
+      "boothName": "자고싶은 새벽반",
+      "genre": ""
+    },
+    {
+      "boothNo": "S6",
+      "artist": "",
+      "boothName": "알고리즘",
+      "genre": ""
+    },
+    {
+      "boothNo": "S7",
+      "artist": "Sab KUMI",
+      "boothName": "사리사욕 공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "S8",
+      "artist": "",
+      "boothName": "메이드 인 키보토스",
+      "genre": ""
+    },
+    {
+      "boothNo": "S9",
+      "artist": "Amejaga",
+      "boothName": "꼴림연구소",
+      "genre": ""
+    },
+    {
+      "boothNo": "C1",
+      "artist": "DBShotgun",
+      "boothName": "시나브로 연구소",
+      "genre": ""
+    },
+    {
+      "boothNo": "C2",
+      "artist": "",
+      "boothName": "한일초최강3DP연구소랩",
+      "genre": ""
+    },
+    {
+      "boothNo": "C3",
+      "artist": "흙손 BOADDA",
+      "boothName": "클레이 아트부",
+      "genre": ""
+    },
+    {
+      "boothNo": "C4",
+      "artist": "",
+      "boothName": "샬레부설가죽공예부",
+      "genre": ""
+    },
+    {
+      "boothNo": "C5",
+      "artist": "",
+      "boothName": "ESPITZ MUSIC",
+      "genre": ""
+    },
+    {
+      "boothNo": "C6",
+      "artist": "렝넌",
+      "boothName": "아리수 아틀리에",
+      "genre": ""
+    },
+    {
+      "boothNo": "C7",
+      "artist": "시아",
+      "boothName": "시아팩토리",
+      "genre": ""
+    },
+    {
+      "boothNo": "C8",
+      "artist": "백룡",
+      "boothName": "늑대발사대",
+      "genre": ""
+    },
+    {
+      "boothNo": "C9",
+      "artist": "다리우리",
+      "boothName": "(눈_눈) 후우하루",
+      "genre": ""
+    },
+    {
+      "boothNo": "C10",
+      "artist": "Alter",
+      "boothName": "칸나의 수사보고서",
+      "genre": ""
+    },
+    {
+      "boothNo": "L1",
+      "artist": "밥통 호미 캣다 이오",
+      "boothName": "일망동",
+      "genre": ""
+    },
+    {
+      "boothNo": "L2",
+      "artist": "페이타",
+      "boothName": "독립시행계산부",
+      "genre": ""
+    },
+    {
+      "boothNo": "L3",
+      "artist": "록다",
+      "boothName": "까요꼬랑!",
+      "genre": ""
+    },
+    {
+      "boothNo": "L4",
+      "artist": "낡은창고 JAZZ JACK",
+      "boothName": "어디선가 봤던 블아 그림이다",
+      "genre": ""
+    },
+    {
+      "boothNo": "L5",
+      "artist": "InApple",
+      "boothName": "링고아메",
+      "genre": ""
+    },
+    {
+      "boothNo": "D1",
+      "artist": "메홍",
+      "boothName": "좋아하는거하는부스",
+      "genre": ""
+    },
+    {
+      "boothNo": "D2",
+      "artist": "22 DRO",
+      "boothName": "무빙아카이브!",
+      "genre": ""
+    },
+    {
+      "boothNo": "D3",
+      "artist": "시란베리",
+      "boothName": "뚜르 데 키보토스",
+      "genre": ""
+    },
+    {
+      "boothNo": "D4",
+      "artist": "이시코로",
+      "boothName": "시로크래프트",
+      "genre": ""
+    },
+    {
+      "boothNo": "D5",
+      "artist": "",
+      "boothName": "진순캣망연구소",
+      "genre": ""
+    },
+    {
+      "boothNo": "D6",
+      "artist": "당나커",
+      "boothName": "엄마",
+      "genre": ""
+    }
+  ]
+}
