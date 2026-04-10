@@ -3,26 +3,14 @@
   "cards": [
     {
       "label": "키보토스 클라우드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.jpg",
-      "url": "https://drive.google.com/file/d/1TmKEp_Jny80ZgW7oajkhCHpu11lVStaN/view?usp=sharing",
-      "sourceUrl": "https://x.com/Sangnoksu_/status/2031310478681714698?s=20",
+      "imageUrl": "https://raw.githubusercontent.com/.../catalog1.jpg",
+      "url": "https://drive.google.com/.../view",
+      "sourceUrl": "https://x.com/Sangnoksu_/...", // 🎨 그림 출처 (작가님 SNS)
+      "catalogUrl": "bluearchive/catalog.json",    // 🛒 인앱 뷰어 (상대 경로)
       "badge": "NEW"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
