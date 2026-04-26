@@ -16,6 +16,14 @@
       "sourceUrl": "https://x.com/TioKun7/status/2043977414917951742?s=20",
       "catalogUrl": "stellive/catalog.json",
       "badge": "NEW"
+    },
+    {
+      "label": "림버스 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
+      "url": "https://drive.google.com/file/d/1NUMDvNfHQFtoQnZF2DwNwYp-2MOPW-FL/view?usp=sharing",
+      "sourceUrl": "https://x.com/Durante_NamSa/status/2023748648589554045?s=20",
+      "catalogUrl": "limbus/catalog.json",
+      "badge": "NEW"
     }
   ]
 }
