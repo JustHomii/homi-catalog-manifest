@@ -1,11 +1,11 @@
 {
-  "eventTitle": "키보토스 클라우드 카탈로그!",
+  "eventTitle": "코믹월드 332 수원 카탈로그!",
   "cards": [
     {
-      "label": "키보토스 클라우드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.jpg",
-      "url": "https://drive.google.com/file/d/1TmKEp_Jny80ZgW7oajkhCHpu11lVStaN/view?usp=sharing",
-      "sourceUrl": "https://x.com/Sangnoksu_/status/2031310478681714698?s=20",
+      "label": "블루아카이브 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
+      "url": "https://drive.google.com/drive/folders/1fWC6PgWLXjA2eidWlofwBmP3n62vASYY?usp=sharing",
+      "sourceUrl": "https://x.com/horuhara/status/2014918634599284838?s=20",
       "catalogUrl": "bluearchive/catalog.json",
       "badge": "NEW"
     }
