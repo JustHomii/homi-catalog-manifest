@@ -4,12 +4,12 @@
     "items": [
       {
         "id": "home_001",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.webp",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=SCFXQMIMXT"
       },
       {
         "id": "home_002",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.webp",
         "linkUrl": "https://x.com/MaskHatter/status/2042309924064281032?s=20"
       }
     ]
@@ -62,19 +62,9 @@
     "items": [
       {
         "id": "popup_001",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/popup2.webp",
-        "linkUrl": "https://witchform.com/deposit_form.php?idx=993998"
+        "imageUrl": "",
+        "linkUrl": ""
       },
-      {
-        "id": "popup_002",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/popup.webp",
-        "linkUrl": "https://x.com/fcdie2026/status/2026552847996010519?s=20"
-      },
-      {
-        "id": "popup_003",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/popup3.webp",
-        "linkUrl": "https://witchform.com/w/festa/home/HSR"
-      }
     ]
   }
 }
