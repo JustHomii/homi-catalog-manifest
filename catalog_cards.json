@@ -24,6 +24,14 @@
       "sourceUrl": "https://x.com/Durante_NamSa/status/2023748648589554045?s=20",
       "catalogUrl": "limbus/catalog.json",
       "badge": "NEW"
+    },
+    {
+      "label": "니케 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.webp",
+      "url": "https://drive.google.com/file/d/1883L2ygnN_hiM2j8x4v0NnYRclxO2pZR/view?usp=sharing",
+      "sourceUrl": https://x.com/uzru0428/status/2017869220466528534?s=20",
+      "catalogUrl": "nikke/catalog.json",
+      "badge": "NEW"
     }
   ]
 }
