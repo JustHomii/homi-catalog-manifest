@@ -32,6 +32,14 @@
       "sourceUrl": "https://x.com/uzru0428/status/2017869220466528534?s=20",
       "catalogUrl": "nikke/catalog.json",
       "badge": "NEW"
+    },
+    {
+      "label": "보컬로이드 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
+      "url": "https://drive.google.com/file/d/1WAyoPg1wCxLgtE2EbQ-GnpwtQbdWxK5H/view?usp=sharing",
+      "sourceUrl": "https://x.com/Iorite_ART/status/2018655713438978329?s=20",
+      "catalogUrl": "vocaloid/catalog.json",
+      "badge": "NEW"
     }
   ]
 }
