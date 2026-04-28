@@ -40,6 +40,14 @@
       "sourceUrl": "https://x.com/Iorite_ART/status/2018655713438978329?s=20",
       "catalogUrl": "vocaloid/catalog.json",
       "badge": "NEW"
+    },
+    {
+      "label": "호요버스 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.webp",
+      "url": "https://drive.google.com/file/d/15BGT-Hp2MNebYvOLS_z0EkXEQoTfxtz3/view?usp=sharing",
+      "sourceUrl": "https://x.com/Layer_prove/status/2048673503864394065?s=20",
+      "catalogUrl": "hoyoverse/catalog.json",
+      "badge": "NEW"
     }
   ]
 }
