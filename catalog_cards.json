@@ -56,6 +56,14 @@
       "sourceUrl": "https://www.pixiv.net/artworks/141632006",
       "catalogUrl": "wutheringwaves/catalog.json",
       "badge": "NEW"
+    },
+    {
+      "label": "트릭컬 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.webp",
+      "url": "https://drive.google.com/file/d/1pXbxUeFH6VNgdMdZFhPujYPO48jAkXMp/view?usp=sharing",
+      "sourceUrl": "https://x.com/Dongle2DongleE/status/2035648648697311278?s=20",
+      "catalogUrl": "trickcal/catalog.json",
+      "badge": "NEW"
     }
   ]
 }
