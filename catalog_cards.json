@@ -1,68 +1,26 @@
 {
-  "eventTitle": "코믹월드 332 수원 카탈로그!",
+  "eventTitle": "코믹월드 333 부산 카탈로그, 젠존제 온리전 카탈로그!",
   "cards": [
     {
-      "label": "블루아카이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
-      "url": "https://drive.google.com/drive/folders/1fWC6PgWLXjA2eidWlofwBmP3n62vASYY?usp=sharing",
-      "sourceUrl": "https://x.com/horuhara/status/2014918634599284838?s=20",
-      "catalogUrl": "bluearchive/catalog.json",
+      "label": "5부코 부스 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.jpg",
+      "url": "https://drive.google.com/drive/folders/1S9_MEMOBcTIOtuBydqCdV2yrI_jdMHSW?usp=sharing",
+      "sourceUrl": "https://x.com/Ati_Blue_/status/2052704420673327140?s=20",
       "badge": "NEW"
     },
     {
-      "label": "스텔라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
-      "url": "https://drive.google.com/file/d/1RpQQdzr6GTh70V2aJ2AQSwd2qQJfzYxV/view?usp=sharing",
-      "sourceUrl": "https://x.com/TioKun7/status/2043977414917951742?s=20",
-      "catalogUrl": "stellive/catalog.json",
+      "label": "젠존제 온리전 『6단지의 휴일』카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.jpg",
+      "url": "https://drive.google.com/drive/folders/1f1rNnnB32GbJ0hIvTH_g3VSZRVTXPAR5?usp=sharing",
+      "sourceUrl": "https://x.com/z_coring/status/2003688761394364665?s=20",
       "badge": "NEW"
     },
     {
-      "label": "림버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
-      "url": "https://drive.google.com/file/d/1NUMDvNfHQFtoQnZF2DwNwYp-2MOPW-FL/view?usp=sharing",
-      "sourceUrl": "https://x.com/Durante_NamSa/status/2023748648589554045?s=20",
-      "catalogUrl": "limbus/catalog.json",
-      "badge": "NEW"
-    },
-    {
-      "label": "니케 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.webp",
-      "url": "https://drive.google.com/file/d/1883L2ygnN_hiM2j8x4v0NnYRclxO2pZR/view?usp=sharing",
-      "sourceUrl": "https://x.com/uzru0428/status/2017869220466528534?s=20",
-      "catalogUrl": "nikke/catalog.json",
-      "badge": "NEW"
-    },
-    {
-      "label": "보컬로이드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
-      "url": "https://drive.google.com/file/d/1WAyoPg1wCxLgtE2EbQ-GnpwtQbdWxK5H/view?usp=sharing",
-      "sourceUrl": "https://x.com/Iorite_ART/status/2018655713438978329?s=20",
-      "catalogUrl": "vocaloid/catalog.json",
-      "badge": "NEW"
-    },
-    {
-      "label": "호요버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.webp",
-      "url": "https://drive.google.com/file/d/15BGT-Hp2MNebYvOLS_z0EkXEQoTfxtz3/view?usp=sharing",
-      "sourceUrl": "https://x.com/Layer_prove/status/2048673503864394065?s=20",
-      "catalogUrl": "hoyoverse/catalog.json",
-      "badge": "NEW"
-    },
-    {
-      "label": "명조 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.webp",
-      "url": "https://drive.google.com/file/d/1EBut_CMHUNh-JFQoFSZTJOOFSYCAw0EJ/view?usp=sharing",
-      "sourceUrl": "https://www.pixiv.net/artworks/141632006",
-      "catalogUrl": "wutheringwaves/catalog.json",
-      "badge": "NEW"
-    },
-    {
-      "label": "트릭컬 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.webp",
-      "url": "https://drive.google.com/file/d/1pXbxUeFH6VNgdMdZFhPujYPO48jAkXMp/view?usp=sharing",
-      "sourceUrl": "https://x.com/Dongle2DongleE/status/2035648648697311278?s=20",
-      "catalogUrl": "trickcal/catalog.json",
+      "label": "",
+      "imageUrl": "",
+      "url": " ",
+      "sourceUrl": "h",
+      "catalogUrl": "",
       "badge": "NEW"
     }
   ]
