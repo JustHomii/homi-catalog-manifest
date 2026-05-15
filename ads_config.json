@@ -5,13 +5,23 @@
     "items": [
       {
         "id": "home_003",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
-        "linkUrl": "https://witchform.com/payform/?uuid=SCFXQMIMXT"
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=OWTKI2E5ND"
       },
       {
         "id": "home_004",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.webp",
+        "linkUrl": "https://x.com/marailh7/status/2051270692445053183?s=20"
+      },
+      {
+        "id": "home_005",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.webp",
-        "linkUrl": "https://x.com/MaskHatter/status/2042309924064281032?s=20"
+        "linkUrl": "https://witchform.com/payform/?uuid=6LX9HVKM3L"
+      },
+      {
+        "id": "home_006",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=A6QUHGHDBU"
       }
     ]
   },
