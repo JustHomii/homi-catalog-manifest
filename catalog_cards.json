@@ -21,7 +21,7 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
       "url": "https://drive.google.com/drive/folders/1h7MnG4YvMl_Hzpw0bvxkPafLbhwIVoea?usp=sharing",
       "sourceUrl": "https://x.com/Nannung_mdr/status/2048264272648827354?s=20",
-      "catalogUrl": "",
+      "catalogUrl": "https://raw.githubusercontent.com/JustHomii/catalog-assets/refs/heads/main/catalog/assets/stellive/catalog.json",
       "badge": "UPDATED"
     },
     {
@@ -109,6 +109,14 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog13.webp",
       "url": "https://drive.google.com/file/d/1xuLlT3SWVugnR8ObmQxOM_whk04jTYgv/view?usp=sharing",
       "sourceUrl": "https://x.com/RAMZIthunder/status/2041470432478695499?s=20",
+      "catalogUrl": "",
+      "badge": "NEW"
+    },
+    {
+      "label": "5일페 1차 창작 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog14.webp",
+      "url": "https://drive.google.com/file/d/1eBKFVbtwSowPHDBazz8NOMbpwOgvxDMq/view?usp=sharing",
+      "sourceUrl": "https://www.pixiv.net/artworks/91285129",
       "catalogUrl": "",
       "badge": "NEW"
     }
