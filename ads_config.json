@@ -4,34 +4,29 @@
     "enabled": true,
     "items": [
       {
-        "id": "home_003",
+        "id": "home_001",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.webp",
-        "linkUrl": "https://witchform.com/payform/?uuid=OWTKI2E5ND"
+        "linkUrl": "https://witchform.com/payform/?uuid=RWHMTXT8CI"
       },
       {
-        "id": "home_004",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.webp",
-        "linkUrl": "https://x.com/marailh7/status/2051270692445053183?s=20"
-      },
-      {
-        "id": "home_005",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.webp",
-        "linkUrl": "https://witchform.com/payform/?uuid=6LX9HVKM3L"
-      },
-      {
-        "id": "home_006",
+        "id": "home_002",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=A6QUHGHDBU"
       },
       {
-        "id": "home_007",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.webp",
-        "linkUrl": "https://witchform.com/payform/?uuid=SU1K5ZAH2Y"
+        "id": "home_003",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=MP9CW1H21H"
       },
       {
-        "id": "home_008",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner6.webp",
-        "linkUrl": "https://x.com/siaworking/status/2049434345317024216?s=20"
+        "id": "home_004",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.webp",
+        "linkUrl": "https://witchform.com/payform/JUPERIQXCS"
+      },
+      {
+        "id": "home_005",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.webp",
+        "linkUrl": "https://witchform.com/payform/?uuid=SU1K5ZAH2Y"
       }
     ]
   },
