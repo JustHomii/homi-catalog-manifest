@@ -17,6 +17,11 @@
         "id": "home_003",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner3.webp",
         "linkUrl": "https://booth-web-hazel.vercel.app/"
+      },
+      {
+        "id": "home_004",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.webp",
+        "linkUrl": "https://witchform.com/p/GQxrGDImm2"
       }
     ]
   },
