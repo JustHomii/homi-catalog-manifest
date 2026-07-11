@@ -7,6 +7,11 @@
         "id": "home_001",
         "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.webp",
         "linkUrl": "https://witchform.com/payform/?uuid=JBYMELEDOI"
+      },
+      {
+        "id": "home_002",
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
+        "linkUrl": "https://x.com/EspitzOfficial/status/2075168376016523560?s=20"
       }
     ]
   },
