@@ -13,7 +13,7 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
       "url": "https://drive.google.com/drive/folders/10zxexnsEK9cVUJsp6WIX95OQPiP1Gh8q?usp=sharing",
       "sourceUrl": "https://x.com/huhi01/status/2058567569028923454?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "림버스 카탈로그",
@@ -34,21 +34,21 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
       "url": "https://drive.google.com/file/d/1A7emezkR7alBmDObUKeWehwLswzHEq4m/view?usp=sharing",
       "sourceUrl": "https://x.com/Kerno_kr/status/2059213596262043994?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "트릭컬 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.webp",
       "url": "https://drive.google.com/file/d/1Ma-FT6hbmD0H_AB4DEHHk81koGoukLgP/view?usp=sharing",
       "sourceUrl": "https://x.com/itpiki/status/2061350036961944014?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "니케 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.webp",
       "url": "https://drive.google.com/file/d/1XCrHt7lkKwOq28_SDCa8fJjAo68Z2TdB/view?usp=sharing",
       "sourceUrl": "https://x.com/mellymelly_luv/status/2074788079337177088?s=20",
-      "badge": "NEW"
+      "badge": "UPDATED"
     },
     {
       "label": "명일방주 엔드필드 카탈로그",
@@ -62,6 +62,13 @@
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.webp",
       "url": "https://drive.google.com/file/d/1SrfnIRXFrsHQ_cUZKJYweMIR90_wPP3i/view?usp=sharing",
       "sourceUrl": "https://www.pixiv.net/artworks/138267234",
+      "badge": "NEW"
+    },
+    {
+      "label": "홀로라이브 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.webp",
+      "url": "https://drive.google.com/file/d/18rv9kE43vWIBmfmcMSWk49zDyPQYO2ZI/view?usp=sharing",
+      "sourceUrl": "https://x.com/KKato_66/status/2072545803151851623?s=20",
       "badge": "NEW"
     }
   ]
