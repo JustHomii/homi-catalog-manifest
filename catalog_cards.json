@@ -1,95 +1,11 @@
 {
-  "eventTitle": "코믹월드 SUMMER 2026",
+  "eventTitle": "일러스타페스 12",
   "cards": [
     {
-      "label": "블루아카이브 카탈로그",
+      "label": "통합 카탈로그",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
-      "url": "https://drive.google.com/drive/folders/17Idg-HU5DgZRzUh80wV5PEvyUFflKVu9?usp=sharing",
-      "sourceUrl": "https://x.com/gigatera00/status/2052238333380862244?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "스텔라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.webp",
-      "url": "https://drive.google.com/drive/folders/10zxexnsEK9cVUJsp6WIX95OQPiP1Gh8q?usp=sharing",
-      "sourceUrl": "https://x.com/huhi01/status/2058567569028923454?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "림버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
-      "url": "https://drive.google.com/file/d/1l0XKX-k7AWL6Txdhs6udnuqFbYH0wFiL/view?usp=sharing",
-      "sourceUrl": "https://x.com/1RAb4HCgDrrfOXJ/status/2066537602304651384?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "호요버스 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog4.webp",
-      "url": "https://drive.google.com/drive/folders/13G1rP8Rvz5h9aQgpKoDONsOs7rZy8tdA?usp=sharing",
-      "sourceUrl": "https://x.com/Wrdajw0/status/2061383022096810252?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "띵조 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog5.webp",
-      "url": "https://drive.google.com/file/d/1A7emezkR7alBmDObUKeWehwLswzHEq4m/view?usp=sharing",
-      "sourceUrl": "https://x.com/Kerno_kr/status/2059213596262043994?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "트릭컬 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog6.webp",
-      "url": "https://drive.google.com/file/d/1Ma-FT6hbmD0H_AB4DEHHk81koGoukLgP/view?usp=sharing",
-      "sourceUrl": "https://x.com/itpiki/status/2061350036961944014?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "니케 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog7.webp",
-      "url": "https://drive.google.com/file/d/1XCrHt7lkKwOq28_SDCa8fJjAo68Z2TdB/view?usp=sharing",
-      "sourceUrl": "https://x.com/mellymelly_luv/status/2074788079337177088?s=20",
-      "badge": "UPDATED"
-    },
-    {
-      "label": "명일방주 엔드필드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog8.webp",
-      "url": "https://drive.google.com/file/d/1eXFhxOGvE1zqRc1LcBn9mxmhK59K58N5/view?usp=sharing",
-      "sourceUrl": "https://x.com/SBGU1635/status/2075475110459257016?s=20",
-      "badge": "NEW"
-    },
-    {
-      "label": "1차 창작 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog9.webp",
-      "url": "https://drive.google.com/file/d/1SrfnIRXFrsHQ_cUZKJYweMIR90_wPP3i/view?usp=sharing",
-      "sourceUrl": "https://www.pixiv.net/artworks/138267234",
-      "badge": "NEW"
-    },
-    {
-      "label": "홀로라이브 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog10.webp",
-      "url": "https://drive.google.com/file/d/18rv9kE43vWIBmfmcMSWk49zDyPQYO2ZI/view?usp=sharing",
-      "sourceUrl": "https://x.com/KKato_66/status/2072545803151851623?s=20",
-      "badge": "NEW"
-    },
-    {
-      "label": "보컬로이드 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog11.webp",
-      "url": "https://drive.google.com/file/d/1CYZ90mSMLr9Y_w7eB8hJFjs-JoRON52e/view?usp=sharing",
-      "sourceUrl": "https://x.com/yainsida/status/2069035185589600762?s=20",
-      "badge": "NEW"
-    },
-    {
-      "label": "우마무스메 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog12.webp",
-      "url": "https://drive.google.com/file/d/1LIEkEWdPnH5ugzon-dGcwfN8DsjNk5jx/view?usp=sharing",
-      "sourceUrl": "https://x.com/just_Homi12/status/2035205964950012395?s=20",
-      "badge": "NEW"
-    },
-    {
-      "label": "이터널리턴 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog13.webp",
-      "url": "https://drive.google.com/file/d/1h2-24PPBHB8Rb9PO0QVJE4YOSHMPvN_C/view?usp=sharing",
-      "sourceUrl": "https://x.com/just_Homi12/status/2035205964950012395?s=20",
+      "url": "https://drive.google.com/drive/folders/1VbgUDrlI6geF4L_2hquwJWhCqqlyzqgu?usp=sharing",
+      "sourceUrl": "https://x.com/Malsuk_10/status/2080661192717271233?s=20",
       "badge": "NEW"
     }
   ]
