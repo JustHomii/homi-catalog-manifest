@@ -4,7 +4,7 @@
     {
       "label": "카탈로그 전체 모음",
       "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog1.webp",
-      "catalogUrl": "https://raw.githubusercontent.com/JustHomii/catalog-assets/main/catalog/assets/all/catalog.json",
+      "catalogUrl": "https://raw.githubusercontent.com/JustHomii/catalog-assets/main/catalog/assets/json/catalog.json",
       "url": "https://drive.google.com/drive/folders/10h_awtYfp1P2QEbQq96P-WHhYXHMlDGC?usp=sharing",
       "sourceUrl": "https://x.com/TioKun7/status/2086451556514476361?s=20",
       "badge": "NEW"
