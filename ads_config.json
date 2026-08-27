@@ -5,18 +5,13 @@
     "items": [
       {
         "id": "home_001",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner4.webp",
-        "linkUrl": "https://witchform.com/deposit_form/1053387"
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.jpg",
+        "linkUrl": "https://witchform.com/payform/?uuid=AIJVWRLMCU"
       },
       {
         "id": "home_002",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner5.webp",
-        "linkUrl": "https://witchform.com/payform/?uuid=WWMZLZWICJ"
-      },
-      {
-        "id": "home_003",
-        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner2.webp",
-        "linkUrl": "https://witchform.com/deposit_form.php?idx=1047808"
+        "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/main/ads/banner1.png",
+        "linkUrl": "https://store.steampowered.com/app/5022480/__1/"
       }
     ]
   },
