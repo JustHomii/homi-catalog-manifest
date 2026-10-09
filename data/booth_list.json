@@ -1,0 +1,3162 @@
+{
+  "eventId": "illustar10",
+  "updatedAt": "2026-10-10",
+  "items": [
+    {
+      "boothNo": "Z01",
+      "artist": "Leviathan",
+      "boothName": "대한웨딩협회",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "Z02",
+      "artist": "May.L ANIZI MINKU Milestone215 Shuni 첫라인 Foxi 정필 신성감자 apo Muna",
+      "boothName": "요거지",
+      "genre": "홀로라이브, 명일방주, 젠존제, 블루아카이브, 림버스"
+    },
+    {
+      "boothNo": "Z03",
+      "artist": "",
+      "boothName": "에콜로그",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "Z04",
+      "artist": "모냐미 거품 pota 내일이걱정 그자키위",
+      "boothName": "옥수수가루 애호가들",
+      "genre": "명조, 트릭컬, 림버스"
+    },
+    {
+      "boothNo": "Z05",
+      "artist": "므랭넹 허볼 ZEB 김법정 가마 몬플 Yo Jang",
+      "boothName": "사도간 볼빨기",
+      "genre": "트릭컬, 젠존제"
+    },
+    {
+      "boothNo": "Z06",
+      "artist": "Eqoo 밤우 소인바람 아이돌리",
+      "boothName": "쌉니다! 싸요~!",
+      "genre": "림버스, 트릭컬, 스텔라이브"
+    },
+    {
+      "boothNo": "Z07",
+      "artist": "오지비 호르 루라랑",
+      "boothName": "왕발깍지",
+      "genre": "블루아카이브, 봇치더락, 젠존제, 니케, 트릭컬"
+    },
+    {
+      "boothNo": "Z08",
+      "artist": "샵샵 저모 밤얌",
+      "boothName": "점 선 면",
+      "genre": "블루아카이브, 스텔라이브"
+    },
+    {
+      "boothNo": "Z09",
+      "artist": "족제비와 토끼",
+      "boothName": "족제비와토끼하우스",
+      "genre": "림버스, 블루아카이브, 트릭컬"
+    },
+    {
+      "boothNo": "Z10",
+      "artist": "낡은창고 연선생님 JAZZ JACK 쭐어 판토",
+      "boothName": "어디선가 봤던 그림이다!",
+      "genre": "블루아카이브, 우마무스메, 버츄버/스트리머, 트릭컬"
+    },
+    {
+      "boothNo": "Z11",
+      "artist": "커터리 WOL mellozzo HURU 페이슈 꽃마녀",
+      "boothName": "감뀰포장학과",
+      "genre": "젠존제, 스타레일, 명조, 블루아카이브, 스텔라이브, 이터널리턴, 원신"
+    },
+    {
+      "boothNo": "Z12",
+      "artist": "밥통 햠포 두두 리무리무 호미",
+      "boothName": "일망동",
+      "genre": "우마무스메, 니케, 스텔라이브, 블루아카이브, 림버스, 명조, 보컬로이드, 트릭컬, 애니, 홀로라이브, 니디걸, 프리큐어"
+    },
+    {
+      "boothNo": "VIR01,02",
+      "artist": "난눙",
+      "boothName": "김난눙이간다!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR03,04",
+      "artist": "D_",
+      "boothName": "유성우 주의보",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR05,06",
+      "artist": "볼쨩 파랑무르",
+      "boothName": "쁘띠라이브",
+      "genre": "스텔라이브, 1차 창작"
+    },
+    {
+      "boothNo": "VIR07",
+      "artist": "",
+      "boothName": "꼬리24스텔",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR08,09",
+      "artist": "콩룡콩룡이 오아싯 라바콘",
+      "boothName": "아니무슨또버튜버야",
+      "genre": "버츄버/스트리머"
+    },
+    {
+      "boothNo": "VIR10",
+      "artist": "myaz",
+      "boothName": "파스텔 제작소",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR11",
+      "artist": "김수평",
+      "boothName": "넘실넘실오느뇨",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR12,13",
+      "artist": "의존 Jade",
+      "boothName": "홀로어셈블",
+      "genre": "홀로라이브"
+    },
+    {
+      "boothNo": "VIR14,15",
+      "artist": "스이 도기",
+      "boothName": "마녀의 연금솥",
+      "genre": "마노사바, 홀로라이브"
+    },
+    {
+      "boothNo": "VIR16",
+      "artist": "일공 감갱 능금 굴착기 슈에노",
+      "boothName": "스텔라반점",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR17~19",
+      "artist": "Ness 연어제티 apo SBGU May.L 슈비 이레 Shuni Anizi",
+      "boothName": "붘스텔지어",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR20",
+      "artist": "Bamji",
+      "boothName": "발 빠진 쥐",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR21,22",
+      "artist": "",
+      "boothName": "Nabi x Nanaluv",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR23,24",
+      "artist": "깡패콩 LS_%",
+      "boothName": "10덕무역협정",
+      "genre": "스텔라이브, 블루아카이브, 니케, 보컬로이드, 우마무스메, 명일방주, 마노사바"
+    },
+    {
+      "boothNo": "VIR26,27",
+      "artist": "soo_ou",
+      "boothName": "반전의 반전",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR28,29",
+      "artist": "KUCA JinOne",
+      "boothName": "프레젠토 2호점",
+      "genre": "블루아카이브, 스텔라이브, 명조"
+    },
+    {
+      "boothNo": "VIR30,31",
+      "artist": "들새인형 Duda1 인젝터 깡끼",
+      "boothName": "이세계 던전 보물창고",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR32,33",
+      "artist": "이형환상검김수민 Chessy BIEN 검은 사신 주노",
+      "boothName": "스텔라 연대기 8",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR34,35",
+      "artist": "도라대장",
+      "boothName": "주식회사 도라대장",
+      "genre": "버츄버/스트리머"
+    },
+    {
+      "boothNo": "VIR36,37",
+      "artist": "mipp_uu",
+      "boothName": "Arcana☆s",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR38",
+      "artist": "주쵸코",
+      "boothName": "스텔라 가든",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR39",
+      "artist": "",
+      "boothName": "버츄얼야타이(이세계공방)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR40,41",
+      "artist": "설태 서횽 아시는 분",
+      "boothName": "서리태 콩 두유",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR42,43",
+      "artist": "",
+      "boothName": "드리아",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR44",
+      "artist": "Chelly",
+      "boothName": "프리티걸",
+      "genre": "홀로라이브"
+    },
+    {
+      "boothNo": "VIR45",
+      "artist": "",
+      "boothName": "여우신사 2호점!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR46",
+      "artist": "",
+      "boothName": "아까시 꿀통",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR47,48",
+      "artist": "하엔",
+      "boothName": "하엔",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR49,50",
+      "artist": "김진 058",
+      "boothName": "버츄얼 스트리트",
+      "genre": "버츄버/스트리머, 홀로라이브"
+    },
+    {
+      "boothNo": "VIR51,52",
+      "artist": "BaeDA 나대는병 풍손모리 252 Pitdoo",
+      "boothName": "기름은답을알고있다",
+      "genre": "홀로라이브, 1차 창작, 버츄버/스트리머"
+    },
+    {
+      "boothNo": "VIR53,54",
+      "artist": "츈 냥족 EST",
+      "boothName": "후야 둥지 불법 점거단",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR55,56",
+      "artist": "냥묘",
+      "boothName": "이거 사주세요",
+      "genre": "홀로라이브"
+    },
+    {
+      "boothNo": "VIR57",
+      "artist": "냥파스",
+      "boothName": "안 사는 해둥이 있나요",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR58,59",
+      "artist": "KKATO",
+      "boothName": "카텔라이브",
+      "genre": "스텔라이브, 홀로라이브, 블루아카이브, 젠존제"
+    },
+    {
+      "boothNo": "VIR60,61",
+      "artist": "하마",
+      "boothName": "사심가득 파스텔",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR62,63",
+      "artist": "이춘식",
+      "boothName": "마돔도",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR64,65",
+      "artist": "민부릉",
+      "boothName": "팀 스피카",
+      "genre": "버츄버/스트리머, 코스플레이"
+    },
+    {
+      "boothNo": "VIR66",
+      "artist": "냥찬",
+      "boothName": "미소녀보관소",
+      "genre": "스텔라이브, 블루아카이브, 보컬로이드, 1차 창작"
+    },
+    {
+      "boothNo": "VIR67",
+      "artist": "",
+      "boothName": "스두공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR70",
+      "artist": "엄지 링무 뜰리에",
+      "boothName": "블루파스텔",
+      "genre": "스텔라이브, 애니"
+    },
+    {
+      "boothNo": "VIR71,72",
+      "artist": "플로",
+      "boothName": "오페라 불카누스",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR73,74",
+      "artist": "ミケ 우에마루 김썩소",
+      "boothName": "이글점프",
+      "genre": "스텔라이브 홀로라이브, 스텔라이브, 홀로라이브"
+    },
+    {
+      "boothNo": "VIR75",
+      "artist": "왕후시딘",
+      "boothName": "리코?리코!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR76",
+      "artist": "",
+      "boothName": "보라색맛 났어!",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR77",
+      "artist": "hint",
+      "boothName": "스우쨩의 하렘",
+      "genre": "홀로라이브, 보컬로이드, 블루아카이브, 원신, 스타레일"
+    },
+    {
+      "boothNo": "VIR78",
+      "artist": "",
+      "boothName": "장물처리반",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR79",
+      "artist": "마호",
+      "boothName": "파스텔공방",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR80,81",
+      "artist": "김앙개 냥푸치노 외부강사 봉래 산호 유르리 코야 퇴근 METEOR",
+      "boothName": "급식라이브",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR82,83",
+      "artist": "Rosh",
+      "boothName": "로셀라 하트",
+      "genre": "스텔라이브, 니케"
+    },
+    {
+      "boothNo": "VIR84",
+      "artist": "세티아 olivenjoy TTONI",
+      "boothName": "쉽덕은 돈이 없다",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR85",
+      "artist": "",
+      "boothName": "장르 통일 실패함",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR86,87",
+      "artist": "ChanGOO",
+      "boothName": "이따공방",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR88,89",
+      "artist": "DEAVER MEAN 유킷스 루비",
+      "boothName": "오하콘콘미옹",
+      "genre": "홀로라이브"
+    },
+    {
+      "boothNo": "VIR90",
+      "artist": "체리블",
+      "boothName": "모라하지마! 보고 가세요~!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR91,92",
+      "artist": "JJAM",
+      "boothName": "Holo☆Pop",
+      "genre": "홀로라이브"
+    },
+    {
+      "boothNo": "VIR93,94",
+      "artist": "",
+      "boothName": "라이브 시작합니다!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR95",
+      "artist": "",
+      "boothName": "지금, 17시15분",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR96",
+      "artist": "UGUN",
+      "boothName": "파스텔 포션공방",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR97",
+      "artist": "",
+      "boothName": "Vatelier",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR98",
+      "artist": "",
+      "boothName": "별빛차의 티타임",
+      "genre": ""
+    },
+    {
+      "boothNo": "VIR99",
+      "artist": "straw",
+      "boothName": "빨대스토어",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR100~102",
+      "artist": "이마일",
+      "boothName": "이마일",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR103,104",
+      "artist": "Qyuk",
+      "boothName": "파스텔수산물사업팀",
+      "genre": "스텔라이브, 보컬로이드, 1차 창작"
+    },
+    {
+      "boothNo": "VIR105,106",
+      "artist": "유엘",
+      "boothName": "유엘",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR107,108",
+      "artist": "コンたぬ",
+      "boothName": "플라스틱프렌즈",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR109,110",
+      "artist": "무루 HaTae GTK99 ts9mo",
+      "boothName": "사탕 안주면 콰끄냥!",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "VIR111,112",
+      "artist": "공공일 달무너 릴리펏 모카치노 무ㅜ 에룻후 이상한인간 치타는짜장면을배달한다 호두과자 후디",
+      "boothName": "위시즈 위시리스트",
+      "genre": "버츄버/스트리머"
+    },
+    {
+      "boothNo": "VIR113~115",
+      "artist": "",
+      "boothName": "레지스땅숙",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE01",
+      "artist": "올로",
+      "boothName": "마지막 저택의 메이드",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "CRE02",
+      "artist": "",
+      "boothName": "대머리족장",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE03",
+      "artist": "",
+      "boothName": "은빛길",
+      "genre": "꿈빛파티시엘,귀멸의칼날"
+    },
+    {
+      "boothNo": "CRE04,05",
+      "artist": "",
+      "boothName": "사리사오리지널",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE06,07",
+      "artist": "",
+      "boothName": "잡동사니",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE08",
+      "artist": "후밍 포코",
+      "boothName": "내가만든여자아이",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "CRE09,10",
+      "artist": "Yain",
+      "boothName": "YAMANGA",
+      "genre": "1차 창작, 보컬로이드"
+    },
+    {
+      "boothNo": "CRE11",
+      "artist": "",
+      "boothName": "테루공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE12,13",
+      "artist": "",
+      "boothName": "노퓨니큐",
+      "genre": "애니"
+    },
+    {
+      "boothNo": "CRE14,15",
+      "artist": "",
+      "boothName": "PTUR Konkurs",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE16,17",
+      "artist": "",
+      "boothName": "비하인드스토리와 멈머냥",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE18,19",
+      "artist": "",
+      "boothName": "바다범",
+      "genre": "포켓몬스터,1차 창작,수속성고양이"
+    },
+    {
+      "boothNo": "CRE20",
+      "artist": "",
+      "boothName": "맹꽁씨는뭘해도귀여워",
+      "genre": "1차 창작물(맹꽁이, 양서류)"
+    },
+    {
+      "boothNo": "CRE21",
+      "artist": "",
+      "boothName": "97년 원조 팀포에",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE22,23",
+      "artist": "",
+      "boothName": "람니버스",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE24,25",
+      "artist": "Mill House",
+      "boothName": "MILL HOUSE",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "CRE26",
+      "artist": "",
+      "boothName": "그냥곰",
+      "genre": "창작"
+    },
+    {
+      "boothNo": "CRE27",
+      "artist": "",
+      "boothName": "JNKM",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE27",
+      "artist": "",
+      "boothName": "모에북방철도",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE28",
+      "artist": "",
+      "boothName": "스튜디오 밤올빼미",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE28",
+      "artist": "",
+      "boothName": "Size of / Love of",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE29",
+      "artist": "MECHURAGI",
+      "boothName": "외출하기",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "CRE30",
+      "artist": "하이량",
+      "boothName": "망각소년",
+      "genre": "1차 창작, 보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "CRE31,32",
+      "artist": "",
+      "boothName": "Team SINOSABI",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "CRE33",
+      "artist": "",
+      "boothName": "수수한마켓",
+      "genre": ""
+    },
+    {
+      "boothNo": "CRE34~36",
+      "artist": "",
+      "boothName": "아르테온",
+      "genre": "디지몬어드벤쳐,너의이름은, 신카이마코토"
+    },
+    {
+      "boothNo": "VOC01",
+      "artist": "",
+      "boothName": "노이즈 현장팀 보카스타지부 : 이걸다팔면퇴근할수있어",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC02",
+      "artist": "아구 CALCULUS",
+      "boothName": "파란남자음합엔연합",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC03",
+      "artist": "",
+      "boothName": "미쿠모리",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC04",
+      "artist": "",
+      "boothName": "전기담쟁이는 월담의 꿈을 꾸는가",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC05,06",
+      "artist": "에버네시 Ubn",
+      "boothName": "두유상점",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC07,08",
+      "artist": "uuro 히왹",
+      "boothName": "러브게이저 걸",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC09",
+      "artist": "엥제가해요? 초롱아귀",
+      "boothName": "유쾌한 우주인의 앨범발매",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC10",
+      "artist": "KAISIN",
+      "boothName": "Aquamory",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC11",
+      "artist": "",
+      "boothName": "ㅎーㅂ",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC12",
+      "artist": "saBona",
+      "boothName": "Yellow Garden",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC13",
+      "artist": "Huker",
+      "boothName": "군청생태학",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC14",
+      "artist": "HAMOON",
+      "boothName": "두부가게",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC15,16",
+      "artist": "규탱",
+      "boothName": "고독의 괴물",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC17,18",
+      "artist": "고먀 무응애 칠일십",
+      "boothName": "미쿠다요",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC19",
+      "artist": "박화애 유카아이",
+      "boothName": "유화연구부",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC20",
+      "artist": "김회장 서화량 시노",
+      "boothName": "보카로 팩토리",
+      "genre": "버츄버/스트리머, 보컬로이드"
+    },
+    {
+      "boothNo": "VOC21,22",
+      "artist": "하니모스 EX3 hika 찌니 빈빈 LiKA 혜성",
+      "boothName": "복합음합엔공간",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC23,24",
+      "artist": "망초",
+      "boothName": "홍로망루로 모여라!",
+      "genre": "보컬로이드, 음합엔, 버츄버/스트리머"
+    },
+    {
+      "boothNo": "VOC25",
+      "artist": "드뾰",
+      "boothName": "드뾰님 츄루먹고가",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC26",
+      "artist": "",
+      "boothName": "봌덕방 상시OPEN",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC27",
+      "artist": "이상현",
+      "boothName": "하츠네미쿠께서는당신을사랑하십니다",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC28",
+      "artist": "Shana",
+      "boothName": "잡덕 문방구",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC29,30",
+      "artist": "화분만사",
+      "boothName": "저희 보카로P 정상영업합니다",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC31,32",
+      "artist": "KOKKO 이청 후이히 버드킴",
+      "boothName": "미쿠미쿠하게해줄게",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC33",
+      "artist": "엘레아 보통",
+      "boothName": "파사모",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC34",
+      "artist": "",
+      "boothName": "그저밴드가좋은사람",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC35",
+      "artist": "루덴 DN",
+      "boothName": "대막파신도 신이고 미쿠도 신이다",
+      "genre": "음합엔, 보컬로이드"
+    },
+    {
+      "boothNo": "VOC36,37",
+      "artist": "LonePi",
+      "boothName": "#Lonely_Notes",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC38",
+      "artist": "",
+      "boothName": "solidbeats(Re:nG)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC39",
+      "artist": "",
+      "boothName": "くくく計画(ㅋㅋㅋ계획)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC40",
+      "artist": "",
+      "boothName": "薄塩指数(얼간지수)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC41",
+      "artist": "bal",
+      "boothName": "bal",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC42",
+      "artist": "里石ユカ",
+      "boothName": "里石ユカ運営(사토이시 유카 운영)",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC43",
+      "artist": "IDONO KAWAZU",
+      "boothName": "IDONO KAWAZU",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC44",
+      "artist": "",
+      "boothName": "ネギシャワーパーティ(네기샤워 파티)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC45",
+      "artist": "크리스",
+      "boothName": "마지텐시미쿠",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC46,47",
+      "artist": "Shu",
+      "boothName": "VocaGaku",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC48",
+      "artist": "MendoZID",
+      "boothName": "앨범팔아서마지미라갈거에요",
+      "genre": "음합엔, 보컬로이드"
+    },
+    {
+      "boothNo": "VOC49",
+      "artist": "",
+      "boothName": "이 부스는 잘 돌아가니까",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC50",
+      "artist": "",
+      "boothName": "하츠네미쿠본진잡덕",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC51,52",
+      "artist": "요메네",
+      "boothName": "스키마켓",
+      "genre": "보컬로이드, 음합엔, 동방"
+    },
+    {
+      "boothNo": "VOC53",
+      "artist": "",
+      "boothName": "80~202BPM",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC54",
+      "artist": "wiosna niseban",
+      "boothName": "음합엔과 유사밴드부",
+      "genre": "음합엔, 보컬로이드, 1차 창작"
+    },
+    {
+      "boothNo": "VOC55",
+      "artist": "",
+      "boothName": "음합엔을 애호할 뿐",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC56",
+      "artist": "Maro Note",
+      "boothName": "마로렁이네 민물장어보양탕 포장됩니다",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC57,58",
+      "artist": "",
+      "boothName": "노란병아리",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC59,60",
+      "artist": "",
+      "boothName": "파랑동구리",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC61",
+      "artist": "MINANYANG 솜",
+      "boothName": "냥솜! 보카로맛집",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC62",
+      "artist": "",
+      "boothName": "코드크러쉬",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC63",
+      "artist": "후스 으아유 카리쟝 chohot",
+      "boothName": "2026 보카로문화예술학부 졸업전시",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC64",
+      "artist": "",
+      "boothName": "빨간미쿠",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC65",
+      "artist": "",
+      "boothName": "한여름(一夏) 앨범 팔아요",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC66",
+      "artist": "노란유자 돌박",
+      "boothName": "케르바보스",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC67",
+      "artist": "zer0h",
+      "boothName": "전자음성진료소",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC68",
+      "artist": "gnyuakh",
+      "boothName": "주황으로 가자!",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC69",
+      "artist": "",
+      "boothName": "광합성골방",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC70",
+      "artist": "cubo 아메바",
+      "boothName": "초보카 3년차 소설 부스",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC71~73",
+      "artist": "밋다다 쭐어",
+      "boothName": "포핏포폿핏포피이잇",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC74,75",
+      "artist": "ぺぽよ",
+      "boothName": "ペポン商店",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC76,77",
+      "artist": "じょるじん",
+      "boothName": "暗黒童話唄(암흑동화패)",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC78",
+      "artist": "Ro2noki Dobuno Awa",
+      "boothName": "ろつだばだ(로츠다바다)",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC79",
+      "artist": "hasumi",
+      "boothName": "はすみの春の日",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC80",
+      "artist": "ねじ式",
+      "boothName": "ねじ式(네지시키)",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC81,82",
+      "artist": "buzzG",
+      "boothName": "buzzG",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC83",
+      "artist": "大漠波新",
+      "boothName": "大漠波新(다이바쿠하신)",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC84",
+      "artist": "",
+      "boothName": "BIGHEAD(빅헤드)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC85",
+      "artist": "",
+      "boothName": "しらゆき(시라유키)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC86",
+      "artist": "宮守文学",
+      "boothName": "宮守文学(미야모리 문학)",
+      "genre": "음합엔, 보컬로이드"
+    },
+    {
+      "boothNo": "VOC87",
+      "artist": "",
+      "boothName": "世界電力(세계전력)",
+      "genre": ""
+    },
+    {
+      "boothNo": "VOC88",
+      "artist": "muship",
+      "boothName": "muship's house",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC89",
+      "artist": "みるくかふぇ",
+      "boothName": "みるくかふぇ(밀크카페)",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC90",
+      "artist": "Mwk",
+      "boothName": "Wakuwaku Miwaku",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC91",
+      "artist": "書店太郎",
+      "boothName": "書店太郎(쇼텐타로)",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC92",
+      "artist": "shinji",
+      "boothName": "球状境界線(구상경계선)～global-line～",
+      "genre": "보컬로이드, 음합엔"
+    },
+    {
+      "boothNo": "VOC92",
+      "artist": "すしなり",
+      "boothName": "すしなり(스시나리)",
+      "genre": "림버스, 음합엔"
+    },
+    {
+      "boothNo": "VOC93",
+      "artist": "BCNO",
+      "boothName": "MY SHIP",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC94",
+      "artist": "사츠키",
+      "boothName": "サツキ(사츠키)",
+      "genre": "보컬로이드"
+    },
+    {
+      "boothNo": "VOC95",
+      "artist": "esoragoto",
+      "boothName": "esoragoto/shino(에소라고토/시노)",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "VOC96,97",
+      "artist": "",
+      "boothName": "サークル全部俺(서클 젠부오레)",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "A01,02",
+      "artist": "Beliatan",
+      "boothName": "벨리아땅",
+      "genre": "블루아카이브, 스텔라이브, 보컬로이드, 봇치더락, 림버스, 트릭컬"
+    },
+    {
+      "boothNo": "A03,04",
+      "artist": "77ㅐ0",
+      "boothName": "히나의 와이프",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A05",
+      "artist": "",
+      "boothName": "레비네 패거리",
+      "genre": ""
+    },
+    {
+      "boothNo": "A06",
+      "artist": "",
+      "boothName": "모몬가의 하루",
+      "genre": ""
+    },
+    {
+      "boothNo": "A07,08",
+      "artist": "연람",
+      "boothName": "라 미리내",
+      "genre": "소녀전선, 젠존제"
+    },
+    {
+      "boothNo": "A09,10",
+      "artist": "AprF",
+      "boothName": "LAMP",
+      "genre": "소녀전선"
+    },
+    {
+      "boothNo": "A11",
+      "artist": "Espior",
+      "boothName": "여히스 인권위",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "A12",
+      "artist": "리또링",
+      "boothName": "다캐릭증후군",
+      "genre": "원신"
+    },
+    {
+      "boothNo": "A13,14",
+      "artist": "myo",
+      "boothName": "플라스틱 베이커리",
+      "genre": "라스트오리진, 코스플레이"
+    },
+    {
+      "boothNo": "A15,16",
+      "artist": "척탄병",
+      "boothName": "우리게임정상영업합니다",
+      "genre": "소녀전선"
+    },
+    {
+      "boothNo": "A17,18",
+      "artist": "리타",
+      "boothName": "마녀인자탓",
+      "genre": "마노사바"
+    },
+    {
+      "boothNo": "A19",
+      "artist": "RS",
+      "boothName": "종이 깎는 노인",
+      "genre": "아이마스, 걸밴크, 보컬로이드, 프리큐어, 스텔라이브, 블루아카이브"
+    },
+    {
+      "boothNo": "A20",
+      "artist": "리츠",
+      "boothName": "옷깃을 단정하게 여미새요",
+      "genre": "타장르, 리버스1999"
+    },
+    {
+      "boothNo": "A21",
+      "artist": "Feita",
+      "boothName": "독립시행계산부",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A22,23",
+      "artist": "Rako",
+      "boothName": "말랑몰루만화부",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A24,25",
+      "artist": "",
+      "boothName": "프로젝트 블루씨지",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A26,27",
+      "artist": "아니니",
+      "boothName": "kiwiland",
+      "genre": "원신, 젠존제, 보컬로이드, 애니, 봇치더락, 블루아카이브, 홀로라이브, 페그오, 스타레일, 우마무스메, 괴담출근, 전독시, 데못죽, 화산귀환"
+    },
+    {
+      "boothNo": "A28,29",
+      "artist": "くせ",
+      "boothName": "갸루 가정교사",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "A30",
+      "artist": "JJONG",
+      "boothName": "앤젤라를 사모합니다",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "A31",
+      "artist": "유의",
+      "boothName": "아이돌은 기세다!",
+      "genre": "스텔라이브, 니디걸, 블루아카이브, 봇치더락, 프로세카, 프리파라, 애니"
+    },
+    {
+      "boothNo": "A32,33",
+      "artist": "에코루 키노코무시",
+      "boothName": "24P Shift",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A34",
+      "artist": "MaNa",
+      "boothName": "야심찬 MaNa부스",
+      "genre": "블루아카이브, 명조"
+    },
+    {
+      "boothNo": "A35",
+      "artist": "",
+      "boothName": "푸른 기록 보관소",
+      "genre": ""
+    },
+    {
+      "boothNo": "A36",
+      "artist": "새나다",
+      "boothName": "코즈믹 플로트",
+      "genre": "유희왕, 체인소맨, 페그오, 프리큐어, 타장르"
+    },
+    {
+      "boothNo": "A37,38",
+      "artist": "먀우 샤날 페이 김서내",
+      "boothName": "청계천굿즈제작연구회",
+      "genre": "블루아카이브, 이터널리턴"
+    },
+    {
+      "boothNo": "A39,40",
+      "artist": "시버지",
+      "boothName": "시장이 반찬이다",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "A41",
+      "artist": "머리털",
+      "boothName": "대(大)머리털",
+      "genre": "아이마스"
+    },
+    {
+      "boothNo": "A42",
+      "artist": "와가지",
+      "boothName": "이상한나라의엘리아스",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "A43,44",
+      "artist": "전주갸팬",
+      "boothName": "Re:Re: 응답하라 2009",
+      "genre": "동방, 보컬로이드, 애니, 아이마스"
+    },
+    {
+      "boothNo": "A45,46",
+      "artist": "",
+      "boothName": "아트홀지박령의아트홀",
+      "genre": ""
+    },
+    {
+      "boothNo": "A47",
+      "artist": "D2K",
+      "boothName": "키보토스나눔병원",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A48",
+      "artist": "POLA RAPU",
+      "boothName": "아이도루카츠동",
+      "genre": "디제이맥스, 보컬로이드, 사운드볼텍스, 뮤즈대쉬"
+    },
+    {
+      "boothNo": "A49,50",
+      "artist": "알고리즘",
+      "boothName": "알고리즘",
+      "genre": "원신, 케데헌, 블루아카이브, 애니"
+    },
+    {
+      "boothNo": "A51,52",
+      "artist": "",
+      "boothName": "저 녀석한테 그 씹덕 하나 내줘",
+      "genre": "블루아카이브, 니케"
+    },
+    {
+      "boothNo": "A53",
+      "artist": "",
+      "boothName": "유카리실황을아세요",
+      "genre": ""
+    },
+    {
+      "boothNo": "A54",
+      "artist": "",
+      "boothName": "모델인형",
+      "genre": ""
+    },
+    {
+      "boothNo": "A55,56",
+      "artist": "MacBuki KiTA HOKORI plumbum tak_0.dachi 카빌세계",
+      "boothName": "새천년 연구소",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A57,58",
+      "artist": "",
+      "boothName": "물건너 친구들",
+      "genre": "원신, 봇치더락, 1차 창작, 블루아카이브, 명일방주, 젠존제, 소녀전선, 우마무스메, 벽람항로"
+    },
+    {
+      "boothNo": "A59",
+      "artist": "",
+      "boothName": "MerryBlue",
+      "genre": ""
+    },
+    {
+      "boothNo": "A60",
+      "artist": "부전나비",
+      "boothName": "명랑만화 연구소",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A61,62",
+      "artist": "Kiroshi",
+      "boothName": "해와 별",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "A63,64",
+      "artist": "",
+      "boothName": "샬레임",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "A65",
+      "artist": "",
+      "boothName": "블평젠평엔평",
+      "genre": ""
+    },
+    {
+      "boothNo": "A66",
+      "artist": "",
+      "boothName": "이렘의삼단비키니",
+      "genre": ""
+    },
+    {
+      "boothNo": "A67,68",
+      "artist": "myumyu Malsuk",
+      "boothName": "비밀일기장",
+      "genre": "젠존제, 블루아카이브, 스타레일"
+    },
+    {
+      "boothNo": "B01,02",
+      "artist": "Mell BADA 맛간다람쥐 ちよね",
+      "boothName": "농빵협동조합",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "B03",
+      "artist": "",
+      "boothName": "시로하네",
+      "genre": ""
+    },
+    {
+      "boothNo": "B04,05",
+      "artist": "시아",
+      "boothName": "시아팩토리",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "B06,07",
+      "artist": "LE_B",
+      "boothName": "오버에스테틱",
+      "genre": "니케, 스텔라이브"
+    },
+    {
+      "boothNo": "B08,09",
+      "artist": "GEUNGIMON YUU",
+      "boothName": "힙스타쿠",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "B10",
+      "artist": "GodGame",
+      "boothName": "명방조아",
+      "genre": "명일방주"
+    },
+    {
+      "boothNo": "B11",
+      "artist": "Hudeci",
+      "boothName": "후데시베루",
+      "genre": "명일방주"
+    },
+    {
+      "boothNo": "B12",
+      "artist": "RETTO",
+      "boothName": "레또샵",
+      "genre": "디지몬, 포켓몬스터, 젠존제"
+    },
+    {
+      "boothNo": "B13",
+      "artist": "東の3LDK",
+      "boothName": "호물포2호점",
+      "genre": "젠존제, 디지몬, 포켓몬"
+    },
+    {
+      "boothNo": "B14,15",
+      "artist": "CHUVI",
+      "boothName": "파도치는환상",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "B16,17",
+      "artist": "쿠로스케",
+      "boothName": "대공동 작업실",
+      "genre": "젠존제"
+    },
+    {
+      "boothNo": "B18",
+      "artist": "시야와",
+      "boothName": "달콤짭짤 마지시리아 상점",
+      "genre": "타장르"
+    },
+    {
+      "boothNo": "B19",
+      "artist": "",
+      "boothName": "VIA",
+      "genre": ""
+    },
+    {
+      "boothNo": "B20",
+      "artist": "",
+      "boothName": "금쪽같은 내장르",
+      "genre": ""
+    },
+    {
+      "boothNo": "B21,22",
+      "artist": "",
+      "boothName": "블루벨벳",
+      "genre": "블루아카이브 스텔라이브 호요버스"
+    },
+    {
+      "boothNo": "B23,24",
+      "artist": "",
+      "boothName": "휘황찬란",
+      "genre": "블루아카이브 스텔라이브 젠존제"
+    },
+    {
+      "boothNo": "B25",
+      "artist": "",
+      "boothName": "지휘관의 정조는 지켜지지 못한다",
+      "genre": ""
+    },
+    {
+      "boothNo": "B26,27",
+      "artist": "",
+      "boothName": "악기상점",
+      "genre": "블루아카이브 애니"
+    },
+    {
+      "boothNo": "B28,29",
+      "artist": "조랑 실프 군계",
+      "boothName": "TOP OF BLUE",
+      "genre": "우마무스메"
+    },
+    {
+      "boothNo": "B30",
+      "artist": "",
+      "boothName": "수상한 문구점",
+      "genre": ""
+    },
+    {
+      "boothNo": "B31",
+      "artist": "",
+      "boothName": "네루만 그림",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "B32,33",
+      "artist": "MiMic",
+      "boothName": "간주점프",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "B34,35",
+      "artist": "",
+      "boothName": "유니버스아틀리에",
+      "genre": ""
+    },
+    {
+      "boothNo": "B36,37",
+      "artist": "또신",
+      "boothName": "또!신",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "B38,39",
+      "artist": "",
+      "boothName": "도마뱀의 보물함",
+      "genre": ""
+    },
+    {
+      "boothNo": "B40",
+      "artist": "일새",
+      "boothName": "볼이 늘어난다 가자",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "B41",
+      "artist": "IKACHAN",
+      "boothName": "솔라리스 동산",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "B42,43",
+      "artist": "Takiki",
+      "boothName": "타키키팔레트",
+      "genre": "우마무스메"
+    },
+    {
+      "boothNo": "B44,45",
+      "artist": "레이어 소운동회 제육복음",
+      "boothName": "거던상점",
+      "genre": "니케, 림버스"
+    },
+    {
+      "boothNo": "B46,47",
+      "artist": "",
+      "boothName": "곰곰",
+      "genre": "애니"
+    },
+    {
+      "boothNo": "B48",
+      "artist": "",
+      "boothName": "햄송송사리탁!",
+      "genre": ""
+    },
+    {
+      "boothNo": "B49,50",
+      "artist": "귤",
+      "boothName": "장르가대체몇개야",
+      "genre": "림버스, 봇치더락, 아이마스, 명일방주, 이터널리턴, 원신, 젠존제, 스타레일, 동방, 명조, 보컬로이드, 페르소나, 음합엔, 엘소드, 포켓몬"
+    },
+    {
+      "boothNo": "B51",
+      "artist": "",
+      "boothName": "피라의 짭품점",
+      "genre": "트릭컬, 블루아카이브"
+    },
+    {
+      "boothNo": "B52",
+      "artist": "Milos",
+      "boothName": "쎈쎄이 원위치!",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "B53,54",
+      "artist": "순무",
+      "boothName": "이치카의 데이트임다!",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "B55,56",
+      "artist": "Risky Lee",
+      "boothName": "만다라화 스튜디오",
+      "genre": "니케, 1차 창작, 브라운더스트"
+    },
+    {
+      "boothNo": "B57,58",
+      "artist": "",
+      "boothName": "clover",
+      "genre": "산나비, 애니"
+    },
+    {
+      "boothNo": "B59",
+      "artist": "원플",
+      "boothName": "원플의 모험",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "B60",
+      "artist": "",
+      "boothName": "키보토스 그레이존",
+      "genre": ""
+    },
+    {
+      "boothNo": "B61",
+      "artist": "닭국수 휘핑크림",
+      "boothName": "어벤츄린이 올인한 홀로라이브",
+      "genre": "스텔라이브, 홀로라이브, 스타레일"
+    },
+    {
+      "boothNo": "B62,63",
+      "artist": "방곰 GOO",
+      "boothName": "잡탕후루후루",
+      "genre": "니케, 보컬로이드, 홀로라이브"
+    },
+    {
+      "boothNo": "B64,65",
+      "artist": "메탈젤리",
+      "boothName": "젤리슬러시",
+      "genre": "블루아카이브, 스텔라이브, 명일방주, 젠존제, 붕괴, 홀로라이브"
+    },
+    {
+      "boothNo": "B66",
+      "artist": "",
+      "boothName": "미들맨망호",
+      "genre": ""
+    },
+    {
+      "boothNo": "B67",
+      "artist": "오크수염",
+      "boothName": "전리품 창고",
+      "genre": "블루아카이브, 젠존제"
+    },
+    {
+      "boothNo": "B68",
+      "artist": "미라피",
+      "boothName": "카키나라세",
+      "genre": "봇치더락, 걸밴크, 블루아카이브"
+    },
+    {
+      "boothNo": "C01,02",
+      "artist": "ALter",
+      "boothName": "경찰과 도둑",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C03",
+      "artist": "민제",
+      "boothName": "알중아니라구요",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C04",
+      "artist": "",
+      "boothName": "JQHN",
+      "genre": "니케, 블루아카이브, 홀로라이브, 애니"
+    },
+    {
+      "boothNo": "C05",
+      "artist": "",
+      "boothName": "매볼리즘",
+      "genre": "타장르, 명일방주, 젠존제"
+    },
+    {
+      "boothNo": "C06,07",
+      "artist": "알수없음 쿠네쉬 스케토 닷스 에첼",
+      "boothName": "트릭컬리즘",
+      "genre": "트릭컬, 젠존제, 보컬로이드, 명일방주"
+    },
+    {
+      "boothNo": "C08,09",
+      "artist": "리쟝",
+      "boothName": "리쟝마켓",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "C10,11",
+      "artist": "",
+      "boothName": "얍비의 연습장",
+      "genre": ""
+    },
+    {
+      "boothNo": "C12,13",
+      "artist": "HISA",
+      "boothName": "쁘띠메테오",
+      "genre": "애니"
+    },
+    {
+      "boothNo": "C14,15",
+      "artist": "윈윈 카밍",
+      "boothName": "개추 크래용",
+      "genre": "블루아카이브, 마노사바, 트릭컬"
+    },
+    {
+      "boothNo": "C16",
+      "artist": "",
+      "boothName": "케크리 엘리아스점",
+      "genre": ""
+    },
+    {
+      "boothNo": "C17",
+      "artist": "",
+      "boothName": "1-B 모쟈란 친구들",
+      "genre": ""
+    },
+    {
+      "boothNo": "C18",
+      "artist": "naeaemgung Ssalyun",
+      "boothName": "와타나가시 실행위원회",
+      "genre": "애니"
+    },
+    {
+      "boothNo": "C19,20",
+      "artist": "",
+      "boothName": "만월금손당",
+      "genre": "원신 블루아카이브"
+    },
+    {
+      "boothNo": "C21,22",
+      "artist": "",
+      "boothName": "야쿠르트고로케",
+      "genre": "스타레일 원신 명조 홀로라이브, 보컬로이드, 원신, 스타레일, 젠존제, 명조, 홀로라이브, 애니, 소녀전선, 봇치더락"
+    },
+    {
+      "boothNo": "C23",
+      "artist": "건호 일이 삼사",
+      "boothName": "브뿌이 이거 사죠",
+      "genre": "이터널리턴, 블루아카이브"
+    },
+    {
+      "boothNo": "C24,25",
+      "artist": "",
+      "boothName": "밀또의 흔들공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "C26,27",
+      "artist": "",
+      "boothName": "에반게리온있는집",
+      "genre": ""
+    },
+    {
+      "boothNo": "C28",
+      "artist": "",
+      "boothName": "지화도의 레트로샵",
+      "genre": ""
+    },
+    {
+      "boothNo": "C29",
+      "artist": "JHH",
+      "boothName": "이 부스 이름이 머드락",
+      "genre": "명일방주"
+    },
+    {
+      "boothNo": "C30,31",
+      "artist": "강변 rib 곰고양이",
+      "boothName": "수채화 아카이브",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C32,33",
+      "artist": "",
+      "boothName": "지킬세상이너무많다",
+      "genre": ""
+    },
+    {
+      "boothNo": "C34",
+      "artist": "yami",
+      "boothName": "뉴비(?)방순이 픽뚫당함",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "C35",
+      "artist": "민트라쿤",
+      "boothName": "꼬질한 털뭉치들",
+      "genre": "트릭컬, 젠존제"
+    },
+    {
+      "boothNo": "C36,37",
+      "artist": "도화",
+      "boothName": "봄날",
+      "genre": "원신, 스타레일, 명조, 젠존제"
+    },
+    {
+      "boothNo": "C38,39",
+      "artist": "지야",
+      "boothName": "호호 레스토랑",
+      "genre": "블루아카이브 원신"
+    },
+    {
+      "boothNo": "C40,41",
+      "artist": "코냐 MA 라은 그냥사람 라은 다우리카",
+      "boothName": "DESSERT 68",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C42,43",
+      "artist": "모바기",
+      "boothName": "말랑한게 너무많아",
+      "genre": "블루아카이브, 니케, 젠존제, 포켓몬, 애니, 트릭컬, 스텔라이브, 페그오"
+    },
+    {
+      "boothNo": "C44",
+      "artist": "JUNU",
+      "boothName": "JUNU 공방",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C45",
+      "artist": "하용",
+      "boothName": "이불 아래 야광공룡",
+      "genre": "1차 창작, 림버스"
+    },
+    {
+      "boothNo": "C46,47",
+      "artist": "SCLASS",
+      "boothName": "샬레 종합전술센터",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C48,49",
+      "artist": "새우김밥 Toro TTUGI 모쿠모",
+      "boothName": "지히간님! 바다가자!",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "C50",
+      "artist": "렝넌",
+      "boothName": "아리수 아틀리에",
+      "genre": "블루아카이브, 1차 창작"
+    },
+    {
+      "boothNo": "C51",
+      "artist": "타오",
+      "boothName": "방과후 비밀기지",
+      "genre": "블루아카이브, 원신"
+    },
+    {
+      "boothNo": "C52,53",
+      "artist": "톨토라",
+      "boothName": "플라스틱걸",
+      "genre": "스텔라이브, 블루아카이브, 명조, 스타레일, 애니, 홀로라이브, 원신"
+    },
+    {
+      "boothNo": "C54,55",
+      "artist": "",
+      "boothName": "츠카이스테",
+      "genre": ""
+    },
+    {
+      "boothNo": "C56,57",
+      "artist": "chobi UnBox 풍삼질",
+      "boothName": "돈까스빵가루공장",
+      "genre": "아이마스"
+    },
+    {
+      "boothNo": "C58",
+      "artist": "1착뽀즈 삼식 i3eancurd 참치마요 창귀먹는법",
+      "boothName": "KINOKO WORKS",
+      "genre": "블루아카이브, 트릭컬"
+    },
+    {
+      "boothNo": "C59,60",
+      "artist": "꼬모 Kama Ritae",
+      "boothName": "꼬리24",
+      "genre": "스텔라이브, 블루아카이브"
+    },
+    {
+      "boothNo": "C61",
+      "artist": "",
+      "boothName": "귀여운거파는곳",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "C62,63",
+      "artist": "",
+      "boothName": "광스웍스",
+      "genre": ""
+    },
+    {
+      "boothNo": "C64",
+      "artist": "",
+      "boothName": "볼토피아",
+      "genre": ""
+    },
+    {
+      "boothNo": "C65",
+      "artist": "모야",
+      "boothName": "내아내 아카이브",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "C66",
+      "artist": ";",
+      "boothName": "니케랑 이거저거",
+      "genre": "니케, 명일방주"
+    },
+    {
+      "boothNo": "C67,68",
+      "artist": "호미",
+      "boothName": "일망동 2호점",
+      "genre": "원신, 젠존제, 스타레일, 이터널리턴"
+    },
+    {
+      "boothNo": "D01",
+      "artist": "샹들켓",
+      "boothName": "방주 비밀도서관",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "D01",
+      "artist": "",
+      "boothName": "애니뜨개방",
+      "genre": ""
+    },
+    {
+      "boothNo": "D02,03",
+      "artist": "",
+      "boothName": "모찌모찌후와후와",
+      "genre": ""
+    },
+    {
+      "boothNo": "D04,05",
+      "artist": "",
+      "boothName": "Enamel Pink",
+      "genre": ""
+    },
+    {
+      "boothNo": "D06",
+      "artist": "",
+      "boothName": "오투가량",
+      "genre": ""
+    },
+    {
+      "boothNo": "D07",
+      "artist": "쌀떡",
+      "boothName": "나만의 디저트 레시피",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D08",
+      "artist": "MCBOX",
+      "boothName": "PLAYSENSEI",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D09,10",
+      "artist": "オコメット",
+      "boothName": "오코멧트",
+      "genre": "명일방주"
+    },
+    {
+      "boothNo": "D11,12",
+      "artist": "",
+      "boothName": "르뤼에수산물협회",
+      "genre": "CoC"
+    },
+    {
+      "boothNo": "D13",
+      "artist": "블뤠기 DAMM",
+      "boothName": "Cleaning & Cooling",
+      "genre": "블루아카이브, 트릭컬"
+    },
+    {
+      "boothNo": "D14",
+      "artist": "김맹",
+      "boothName": "슈퍼 블붕이",
+      "genre": "이터널리턴, 블루아카이브, 원신, 스타레일, 홀로라이브"
+    },
+    {
+      "boothNo": "D15,16",
+      "artist": "",
+      "boothName": "치야호야",
+      "genre": "봇치더록,블루아카이브"
+    },
+    {
+      "boothNo": "D17,18",
+      "artist": "INESIA 레드샼 Bsmage 말랑토글이",
+      "boothName": "패배의 텅장",
+      "genre": "니케, 브라운더스트2, 명조, 스텔라이브, 이터널리턴, 트릭컬"
+    },
+    {
+      "boothNo": "D19,20",
+      "artist": "Dbshotgun",
+      "boothName": "시나브로 연구소",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D21,22",
+      "artist": "후유 초코피자",
+      "boothName": "농농요리사",
+      "genre": "블루아카이브, 트릭컬, 우마무스메"
+    },
+    {
+      "boothNo": "D23",
+      "artist": "",
+      "boothName": "조네 책방",
+      "genre": ""
+    },
+    {
+      "boothNo": "D24",
+      "artist": "모니크",
+      "boothName": "건강부스 펑펑 철찌들 지갑을 터트려",
+      "genre": "철권"
+    },
+    {
+      "boothNo": "D25,26",
+      "artist": "",
+      "boothName": "트림컬 컴퍼니",
+      "genre": ""
+    },
+    {
+      "boothNo": "D27,28",
+      "artist": "쵸쵸",
+      "boothName": "PaRaDis",
+      "genre": "이환, 홀로라이브, 스텔라이브, 보컬로이드, 애니, 봇치더락"
+    },
+    {
+      "boothNo": "D29",
+      "artist": "Spade",
+      "boothName": "로셀라 블루",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D30",
+      "artist": "DASOM",
+      "boothName": "다솜이네 미소녀 백반집",
+      "genre": "니케, 스텔라이브, 이터널리턴, 좀비고"
+    },
+    {
+      "boothNo": "D31",
+      "artist": "",
+      "boothName": "클레이 공작소",
+      "genre": ""
+    },
+    {
+      "boothNo": "D32",
+      "artist": "소리집",
+      "boothName": "소리집",
+      "genre": "음합엔"
+    },
+    {
+      "boothNo": "D33",
+      "artist": "투베이마루",
+      "boothName": "인스턴트 스트로베리",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D34,35",
+      "artist": "RAEl",
+      "boothName": "랠라코어",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "D36",
+      "artist": "붉은여우",
+      "boothName": "귤표독",
+      "genre": "니케, 블루아카이브"
+    },
+    {
+      "boothNo": "D37",
+      "artist": "네에네엥네에 주은",
+      "boothName": "이리로 오도록 해.",
+      "genre": "이터널리턴, 블루아카이브, 림버스"
+    },
+    {
+      "boothNo": "D38,39",
+      "artist": "",
+      "boothName": "볼더스게이트",
+      "genre": "트릭컬, 블루아카이브"
+    },
+    {
+      "boothNo": "D40",
+      "artist": "",
+      "boothName": "이거거던",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "D41",
+      "artist": "Blackness",
+      "boothName": "말랑이 좋아요",
+      "genre": "블루아카이브, 스텔라이브"
+    },
+    {
+      "boothNo": "D42",
+      "artist": "THABA",
+      "boothName": "잡싸바",
+      "genre": "블루아카이브, 니케, 젠존제, 버츄버/스트리머"
+    },
+    {
+      "boothNo": "D43",
+      "artist": "캣다 이오",
+      "boothName": "어이가없네",
+      "genre": "림버스, 보컬로이드, 블루아카이브, 스텔라이브"
+    },
+    {
+      "boothNo": "D44,45",
+      "artist": "캣다 이오 라떼",
+      "boothName": "얼탱이없네",
+      "genre": "스텔라이브, 블루아카이브, 림버스, 보컬로이드, 포켓몬"
+    },
+    {
+      "boothNo": "D46",
+      "artist": "YEONG CHU",
+      "boothName": "리그오브이리방주:엔드필드",
+      "genre": "이터널리턴, 명일방주"
+    },
+    {
+      "boothNo": "D47",
+      "artist": "펩시",
+      "boothName": "샬레에너빌리티",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D48",
+      "artist": "유화 인멍 김란티",
+      "boothName": "최애 잡아다 끓인 찐한 잡탕스프 배급소",
+      "genre": "블루아카이브, 스텔라이브, 애니, 보컬로이드, 원신, 좀비고"
+    },
+    {
+      "boothNo": "D49,50",
+      "artist": "둡댑",
+      "boothName": "Entry",
+      "genre": "발로란트, 보컬로이드, 이터널리턴, 포켓몬, 애니"
+    },
+    {
+      "boothNo": "D51,52",
+      "artist": "TOMATO",
+      "boothName": "몰?루마켓",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D53",
+      "artist": "운설",
+      "boothName": "운설의 글씨공방",
+      "genre": "스텔라이브, 명조, 블루아카이브"
+    },
+    {
+      "boothNo": "D54",
+      "artist": "와우 얀톄",
+      "boothName": "관리자 선생",
+      "genre": "림버스, 블루아카이브"
+    },
+    {
+      "boothNo": "D55",
+      "artist": "",
+      "boothName": "라온색지",
+      "genre": ""
+    },
+    {
+      "boothNo": "D56,57",
+      "artist": "로로",
+      "boothName": "가끔씩 툭하고 트릭컬을 하며 부끄러워하는 옆자리의 슈로양",
+      "genre": "트릭컬, 이터널리턴, 명일방주, 블루아카이브, 버츄버/스트리머"
+    },
+    {
+      "boothNo": "D58",
+      "artist": "미누시오",
+      "boothName": "옆집 사제님 때문에 어느샌가 교주적으로 타락한 사연",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "D59,60",
+      "artist": "9_long",
+      "boothName": "나 9롱이다",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "D61,62",
+      "artist": "ERROR HEARTS",
+      "boothName": "인스턴트 퓨전",
+      "genre": "애니, 타장르"
+    },
+    {
+      "boothNo": "D63",
+      "artist": "Mella",
+      "boothName": "카라멜라떼",
+      "genre": "니케, 스텔라이브"
+    },
+    {
+      "boothNo": "D64",
+      "artist": "",
+      "boothName": "사와 공방",
+      "genre": ""
+    },
+    {
+      "boothNo": "D65",
+      "artist": "",
+      "boothName": "YOONKIRA",
+      "genre": ""
+    },
+    {
+      "boothNo": "D66",
+      "artist": "",
+      "boothName": "Neroro",
+      "genre": ""
+    },
+    {
+      "boothNo": "D67",
+      "artist": "행성튀김",
+      "boothName": "띠부 안에 사람이 있잖아!",
+      "genre": "스텔라이브, 괴담출근, 1차 창작"
+    },
+    {
+      "boothNo": "D68",
+      "artist": "",
+      "boothName": "방랑자 정실후보",
+      "genre": ""
+    },
+    {
+      "boothNo": "E01~03",
+      "artist": "APPLECARAMEL",
+      "boothName": "APPLE!☆마법공방",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "E04,05",
+      "artist": "로앤그린 조이형 서서양",
+      "boothName": "원샷 스튜디오",
+      "genre": "림버스, 트릭컬"
+    },
+    {
+      "boothNo": "E06,07",
+      "artist": "달감",
+      "boothName": "이리인데왜블붕이냐고",
+      "genre": "블루아카이브, 명조"
+    },
+    {
+      "boothNo": "E08~10",
+      "artist": "",
+      "boothName": "루나리아ML",
+      "genre": ""
+    },
+    {
+      "boothNo": "E11,12",
+      "artist": "이마일",
+      "boothName": "이마일 명조",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "E13,14",
+      "artist": "SGR",
+      "boothName": "타입문 바캉스",
+      "genre": "페그오"
+    },
+    {
+      "boothNo": "E15,16",
+      "artist": "로상 YUNA",
+      "boothName": "갓챠 연구소",
+      "genre": "블루아카이브, 니케, 젠존제"
+    },
+    {
+      "boothNo": "E17,18",
+      "artist": "",
+      "boothName": "각인 맛집 루치아노",
+      "genre": ""
+    },
+    {
+      "boothNo": "E19~21",
+      "artist": "깽이룰루",
+      "boothName": "깽이룰루",
+      "genre": ""
+    },
+    {
+      "boothNo": "E22,23",
+      "artist": "부원태 동원샘물",
+      "boothName": "돈까스팔루그",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E24,25",
+      "artist": "힝구몬",
+      "boothName": "림빵단",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "E26~28",
+      "artist": "",
+      "boothName": "오타쿠 잡탕찌개",
+      "genre": ""
+    },
+    {
+      "boothNo": "E29,30",
+      "artist": "LEN 전시오 고냥이풀 MOPI",
+      "boothName": "이럴수가",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E31,32",
+      "artist": "유즈",
+      "boothName": "유즈의절대망상구역",
+      "genre": "니케, 블루아카이브, 명조"
+    },
+    {
+      "boothNo": "E33~35",
+      "artist": "82Jhin Soru 좃간",
+      "boothName": "낭만학회",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E36,37",
+      "artist": "백룡",
+      "boothName": "VJ천장특공대",
+      "genre": "블루아카이브, 림버스, 트릭컬, 명일방주"
+    },
+    {
+      "boothNo": "E38,39",
+      "artist": "유라",
+      "boothName": "유라&기묭묭지",
+      "genre": "코스플레이"
+    },
+    {
+      "boothNo": "E40~42",
+      "artist": "",
+      "boothName": "러브앤문",
+      "genre": ""
+    },
+    {
+      "boothNo": "E43,44",
+      "artist": "뾰",
+      "boothName": "뾰네 그림가게",
+      "genre": "트릭컬, 봇치더락, 보컬로이드, 블루아카이브, 애니"
+    },
+    {
+      "boothNo": "E45,46",
+      "artist": "아노센",
+      "boothName": "말랑뽀작우유식빵",
+      "genre": "스타레일, 원신, 젠존제, 명조"
+    },
+    {
+      "boothNo": "E47,48",
+      "artist": "",
+      "boothName": "트리니티 해외항공",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E49,50",
+      "artist": "론캣 sandal",
+      "boothName": "BRIDGE",
+      "genre": "소녀전선"
+    },
+    {
+      "boothNo": "E51,52",
+      "artist": "망고",
+      "boothName": "오매불망 웨딩",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E53,54",
+      "artist": "",
+      "boothName": "해달샵",
+      "genre": "원신 스타레일 명조, 원신, 스타레일, 명조"
+    },
+    {
+      "boothNo": "E55,56",
+      "artist": "우유리",
+      "boothName": "빵빵걸즈",
+      "genre": "니케"
+    },
+    {
+      "boothNo": "E57,58",
+      "artist": "NonDDu",
+      "boothName": "마리샹궈",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "E59,60",
+      "artist": "아르테",
+      "boothName": "N잡사무소",
+      "genre": "아이돌마스터, 귀멸의 칼날, 장송의 프리렌, 그 비스크돌은 사랑을 한다, 향기로운 꽃은 늠름하게 핀다, 아이마스"
+    },
+    {
+      "boothNo": "E61~63",
+      "artist": "blance",
+      "boothName": "블랜스 보따리",
+      "genre": "니케, 블루아카이브"
+    },
+    {
+      "boothNo": "F01,02",
+      "artist": "Pepa",
+      "boothName": "페파로니 피자",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "F03,04",
+      "artist": "스튜디오 화닐",
+      "boothName": "빈 칸을 채워줘#1",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "F05,06",
+      "artist": "라베 이림",
+      "boothName": "책 팜.",
+      "genre": "블루아카이브, 트릭컬"
+    },
+    {
+      "boothNo": "F07,08",
+      "artist": "KUMI Sab",
+      "boothName": "사리사욕 공방",
+      "genre": "블루아카이브, 니케"
+    },
+    {
+      "boothNo": "F09~11",
+      "artist": "파이브링스",
+      "boothName": "파이브링스",
+      "genre": "보컬로이드, 젠존제, 이환, 니디걸, 블루아카이브, 스텔라이브"
+    },
+    {
+      "boothNo": "F12,13",
+      "artist": "Cookie",
+      "boothName": "쿠킹띵조",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "F14,15",
+      "artist": "주도림 vdB 141",
+      "boothName": "러브 아카이브",
+      "genre": "블루아카이브, 애니"
+    },
+    {
+      "boothNo": "F16~18",
+      "artist": "수빈",
+      "boothName": "태양의숲",
+      "genre": "스텔라이브, 블루아카이브"
+    },
+    {
+      "boothNo": "F19,20",
+      "artist": "끾뀪이",
+      "boothName": "괴즈나애호가",
+      "genre": "블루아카이브 1차 창작"
+    },
+    {
+      "boothNo": "F21,22",
+      "artist": "로푸닝",
+      "boothName": "세기말 오타쿠",
+      "genre": "페르소나, 타장르, 애니, 포켓몬"
+    },
+    {
+      "boothNo": "F23~25",
+      "artist": "달샤샤 갸니 はるいぬ",
+      "boothName": "Shasha & Gyani with Haruinu",
+      "genre": "블루아카이브, 코스플레이"
+    },
+    {
+      "boothNo": "F26,27",
+      "artist": "난주바미 연수유라  K-Chronos",
+      "boothName": "연수유라 픽셀 팩토리 / 월간 플래툰",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "F28,29",
+      "artist": "루나크루 아도하 뜌땨 사호",
+      "boothName": "마카롱 빙수",
+      "genre": "스텔라이브, 블루아카이브"
+    },
+    {
+      "boothNo": "F30~32",
+      "artist": "피키 잡초양",
+      "boothName": "피키초양",
+      "genre": "트릭컬, 1차 창작, 블루아카이브"
+    },
+    {
+      "boothNo": "F33,34",
+      "artist": "JUNA",
+      "boothName": "JUNAzip",
+      "genre": "원신, 스타레일, 블루아카이브"
+    },
+    {
+      "boothNo": "F35,36",
+      "artist": "InApple",
+      "boothName": "링고아메",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "F37~39",
+      "artist": "아스타이드 고담비 Rifnets chiaki 탕수육 이시코로",
+      "boothName": "청계천물만두",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "F40,41",
+      "artist": "SIANN 시아 초코피자 원소 적호한이",
+      "boothName": "SOLENNE 공방",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "F42,43",
+      "artist": "초코리엘",
+      "boothName": "☆이츠데모 티파티☆",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "F44~46",
+      "artist": "",
+      "boothName": "ESPITZ MUSIC",
+      "genre": "1차 창작, 블루아카이브"
+    },
+    {
+      "boothNo": "G01,02",
+      "artist": "월량아",
+      "boothName": "AliceFlag",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G03",
+      "artist": "스코야카콘부",
+      "boothName": "すこすここんぶ",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G04,05",
+      "artist": "Knt",
+      "boothName": "데카붐 왔으니 조았스!",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G06,07",
+      "artist": "",
+      "boothName": "SEA QUEST",
+      "genre": "애니 포켓몬"
+    },
+    {
+      "boothNo": "G08",
+      "artist": "말랑찐빵",
+      "boothName": "엔필공장",
+      "genre": "명일방주"
+    },
+    {
+      "boothNo": "G09",
+      "artist": "",
+      "boothName": "블루 아카이Boo",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G10",
+      "artist": "사카키 코지로",
+      "boothName": "더블서티",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G11",
+      "artist": "",
+      "boothName": "블루 아카이프?!",
+      "genre": ""
+    },
+    {
+      "boothNo": "G12,13",
+      "artist": "세인 YunoGT 묙토끼 마웨",
+      "boothName": "볼'만한 부스",
+      "genre": "트릭컬, 젠존제"
+    },
+    {
+      "boothNo": "G14",
+      "artist": "카크루 유명사제",
+      "boothName": "볼드필드",
+      "genre": "트릭컬"
+    },
+    {
+      "boothNo": "G15,16",
+      "artist": "",
+      "boothName": "초성학원아이돌연구부",
+      "genre": ""
+    },
+    {
+      "boothNo": "G17",
+      "artist": "드론빵",
+      "boothName": "실용주의노선",
+      "genre": "트릭컬, 블루아카이브"
+    },
+    {
+      "boothNo": "G18",
+      "artist": "",
+      "boothName": "뽀시래기",
+      "genre": "기타 등등"
+    },
+    {
+      "boothNo": "G19,20",
+      "artist": "",
+      "boothName": "도깨비상점",
+      "genre": "스타레일"
+    },
+    {
+      "boothNo": "G21,22",
+      "artist": "자박",
+      "boothName": "가챠신님적당히좀",
+      "genre": "애니 블루아카이브"
+    },
+    {
+      "boothNo": "G23",
+      "artist": "",
+      "boothName": "찹쌀몽사세요",
+      "genre": ""
+    },
+    {
+      "boothNo": "G24",
+      "artist": "",
+      "boothName": "39HzSTUDIO",
+      "genre": ""
+    },
+    {
+      "boothNo": "G25,26",
+      "artist": "랄라쿤",
+      "boothName": "외로운 뚠뚠섬",
+      "genre": "스텔라이브, 트릭컬, 명조, 니케, 블루아카이브, 이터널리턴, 스타레일, 괴담출근, 젠존제, 홀로라이브, 애니, 원신"
+    },
+    {
+      "boothNo": "G27,28",
+      "artist": "",
+      "boothName": "스텔란티스",
+      "genre": "니케, 블루아카이브"
+    },
+    {
+      "boothNo": "G29,30",
+      "artist": "",
+      "boothName": "뭘봐허접아",
+      "genre": ""
+    },
+    {
+      "boothNo": "G31,32",
+      "artist": "",
+      "boothName": "250",
+      "genre": ""
+    },
+    {
+      "boothNo": "G33",
+      "artist": "nowclosing",
+      "boothName": "말딸 띵조 마이크로블럭",
+      "genre": "명조 우마무스메, 명조, 우마무스메"
+    },
+    {
+      "boothNo": "G34",
+      "artist": "이강민",
+      "boothName": "호시농은 농농해",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G35",
+      "artist": "",
+      "boothName": "센세와 지히간",
+      "genre": ""
+    },
+    {
+      "boothNo": "G36,37",
+      "artist": "",
+      "boothName": "버드스트라이크",
+      "genre": "블루아카이브, 스텔라이브, 니케, 젠존제"
+    },
+    {
+      "boothNo": "G38",
+      "artist": "",
+      "boothName": "버드스트라이크B",
+      "genre": ""
+    },
+    {
+      "boothNo": "G39,40",
+      "artist": "키랏 윰 킷삼",
+      "boothName": "별빛이 내린다",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "G41,42",
+      "artist": "DoHam VAVAMVA",
+      "boothName": "꿈나라 편의점",
+      "genre": "블루아카이브, 니케"
+    },
+    {
+      "boothNo": "G43",
+      "artist": "Hinoa",
+      "boothName": "니고 보관소",
+      "genre": "뱅드림"
+    },
+    {
+      "boothNo": "G44,45",
+      "artist": "",
+      "boothName": "망고 박스",
+      "genre": "봇치더록"
+    },
+    {
+      "boothNo": "G46,47",
+      "artist": "",
+      "boothName": "부스 더 엑시온",
+      "genre": ""
+    },
+    {
+      "boothNo": "G48,49",
+      "artist": "hido",
+      "boothName": "엔젤24 잡지코너",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "G50",
+      "artist": "",
+      "boothName": "ye로니무스",
+      "genre": ""
+    },
+    {
+      "boothNo": "H01",
+      "artist": "Enko",
+      "boothName": "오토튠감전",
+      "genre": "젠존제"
+    },
+    {
+      "boothNo": "H02",
+      "artist": "루인다 VLC33",
+      "boothName": "폭발 안경",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "H03",
+      "artist": "박봉분",
+      "boothName": "펑펑이에오",
+      "genre": "스텔라이브"
+    },
+    {
+      "boothNo": "H04,05",
+      "artist": "",
+      "boothName": "도토리곳간",
+      "genre": "블루아카이브,괴출데못병,초가구야공주!,헌터x헌터"
+    },
+    {
+      "boothNo": "H06",
+      "artist": "",
+      "boothName": "벨의틈새시장",
+      "genre": ""
+    },
+    {
+      "boothNo": "H07,08",
+      "artist": "FOE 1SIKDAN",
+      "boothName": "네루너무좋아",
+      "genre": "블루아카이브"
+    },
+    {
+      "boothNo": "H09,10",
+      "artist": "carrot YOUNGJOO",
+      "boothName": "리나시타 더 웨딩",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "H11",
+      "artist": "",
+      "boothName": "코하루너무좋아",
+      "genre": ""
+    },
+    {
+      "boothNo": "H12",
+      "artist": "",
+      "boothName": "샤디",
+      "genre": "동방프로젝트"
+    },
+    {
+      "boothNo": "H13,14",
+      "artist": "Rody",
+      "boothName": "무지개색 총공격이다!",
+      "genre": "니케, 림버스, 젠존제, 블루아카이브, 우마무스메, 명조"
+    },
+    {
+      "boothNo": "H15,16",
+      "artist": "MiYAKE",
+      "boothName": "미요와 밀회",
+      "genre": "블루아카이브, 봇치더락"
+    },
+    {
+      "boothNo": "H17,18",
+      "artist": "플루쟝 누엉",
+      "boothName": "쿠데타 대책위원회",
+      "genre": "블루아카이브, 이환"
+    },
+    {
+      "boothNo": "H19,20",
+      "artist": "L.주빌",
+      "boothName": "버터의 사료주머니",
+      "genre": ""
+    },
+    {
+      "boothNo": "H21",
+      "artist": "미니야",
+      "boothName": "미니야카이브",
+      "genre": "트릭컬, 블루아카이브"
+    },
+    {
+      "boothNo": "H22",
+      "artist": "",
+      "boothName": "라이토프사",
+      "genre": ""
+    },
+    {
+      "boothNo": "H23,24",
+      "artist": "",
+      "boothName": "레후토프사",
+      "genre": "사운드볼텍스"
+    },
+    {
+      "boothNo": "H25",
+      "artist": "카즈히 고독",
+      "boothName": "여기좋소",
+      "genre": "명조, 스텔라이브"
+    },
+    {
+      "boothNo": "H26,27",
+      "artist": "HYURUMARI",
+      "boothName": "와카모가 그린 학생들",
+      "genre": "블루아카이브, 니케, 트릭컬, 명조"
+    },
+    {
+      "boothNo": "H28,29",
+      "artist": "",
+      "boothName": "오늘의보부상",
+      "genre": "젠존제, 원신, 스타레일, 명일방주"
+    },
+    {
+      "boothNo": "H30",
+      "artist": "알키 아메먀",
+      "boothName": "엔케팔린 충전소",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "H31",
+      "artist": "",
+      "boothName": "생강꽃 필 무렵",
+      "genre": "림버스"
+    },
+    {
+      "boothNo": "H32,33",
+      "artist": "Truth Spirit",
+      "boothName": "진혼",
+      "genre": "스텔라이브 애니"
+    },
+    {
+      "boothNo": "H34,35",
+      "artist": "",
+      "boothName": "애착 레시피",
+      "genre": "블루아카이브, 원신, 이터널리턴"
+    },
+    {
+      "boothNo": "H36,37",
+      "artist": "",
+      "boothName": "총코믹샵",
+      "genre": "니케, 보컬로이드, 애니, 블루아카이브, 원신, 러브라이브, 좀비고"
+    },
+    {
+      "boothNo": "H38,39",
+      "artist": "ASAK 데굴",
+      "boothName": "아삭튜닝공방",
+      "genre": "명조, 블루아카이브"
+    },
+    {
+      "boothNo": "H40",
+      "artist": "",
+      "boothName": "닌텐도 한 스푼",
+      "genre": ""
+    },
+    {
+      "boothNo": "H41",
+      "artist": "",
+      "boothName": "말랑말랑 유치원",
+      "genre": ""
+    },
+    {
+      "boothNo": "H42",
+      "artist": "라리호",
+      "boothName": "라리호 유니버스",
+      "genre": "명일방주, 스타레일"
+    },
+    {
+      "boothNo": "H43,44",
+      "artist": "RODEJYANG",
+      "boothName": "로드쟝의 도트공쟝",
+      "genre": "블루아카이브, 니케, 아이돌마스터, 아이마스"
+    },
+    {
+      "boothNo": "H45",
+      "artist": "",
+      "boothName": "볼법노점상",
+      "genre": ""
+    },
+    {
+      "boothNo": "H46",
+      "artist": "",
+      "boothName": "블붕이 볼붕이",
+      "genre": ""
+    },
+    {
+      "boothNo": "H47,48",
+      "artist": "하무 후유",
+      "boothName": "솔라리스 방랑일지",
+      "genre": "명조"
+    },
+    {
+      "boothNo": "H49,50",
+      "artist": "삥쁑",
+      "boothName": "피카츄환상의응꼬쇼",
+      "genre": "포켓몬"
+    },
+    {
+      "boothNo": "BIZ01",
+      "artist": "",
+      "boothName": "AMD RYZEN AI",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ02",
+      "artist": "",
+      "boothName": "니벨아레나",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ03",
+      "artist": "",
+      "boothName": "숄더PICK",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ04",
+      "artist": "",
+      "boothName": "한림사",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ05",
+      "artist": "",
+      "boothName": "스타세이비어",
+      "genre": "스타세이비어"
+    },
+    {
+      "boothNo": "BIZ06",
+      "artist": "메뭄 로아",
+      "boothName": "LUDIA Cos",
+      "genre": "코스플레이, 블루아카이브"
+    },
+    {
+      "boothNo": "BIZ07",
+      "artist": "",
+      "boothName": "웹툰IP창업지원센터",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ08",
+      "artist": "",
+      "boothName": "시나리움 아카데미",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ09",
+      "artist": "",
+      "boothName": "부산경상대학교 앵커",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ10",
+      "artist": "",
+      "boothName": "STACKER BATTLE",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ11",
+      "artist": "",
+      "boothName": "SEOUL KAWAII NETWORK  X ACRO TOKYO",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ12",
+      "artist": "",
+      "boothName": "MIMYO ARC",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ13",
+      "artist": "",
+      "boothName": "RZCOS",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ14",
+      "artist": "",
+      "boothName": "Sixtar Gate: INFINISTAR",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ15",
+      "artist": "",
+      "boothName": "토이즈하트",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ16",
+      "artist": "",
+      "boothName": "아우터플레인",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ17",
+      "artist": "",
+      "boothName": "시이라 x AINOW",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ18",
+      "artist": "",
+      "boothName": "VOX Factory / SETES",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ19",
+      "artist": "",
+      "boothName": "일러스타샵 x 온리포미",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ20",
+      "artist": "밤비 너울 희야 슈마",
+      "boothName": "FIXELA x NUUCOS",
+      "genre": "코스플레이"
+    },
+    {
+      "boothNo": "BIZ21",
+      "artist": "",
+      "boothName": "코스이즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "BIZ22",
+      "artist": "",
+      "boothName": "배송대장",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG01",
+      "artist": "",
+      "boothName": "Project MF",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG02",
+      "artist": "",
+      "boothName": "네개의 빛",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG03",
+      "artist": "",
+      "boothName": "Beltane Studio",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG04",
+      "artist": "",
+      "boothName": "뉴비전",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG05",
+      "artist": "",
+      "boothName": "디지털 케이크샵",
+      "genre": "1차 창작"
+    },
+    {
+      "boothNo": "IDG06",
+      "artist": "",
+      "boothName": "상철게임즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG07",
+      "artist": "",
+      "boothName": "타마유 게임노벨즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG08",
+      "artist": "",
+      "boothName": "MandU",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG09",
+      "artist": "",
+      "boothName": "위즈캣 게임즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG10",
+      "artist": "",
+      "boothName": "블루그라운드 스튜디오",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG11",
+      "artist": "",
+      "boothName": "칼라게임즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG12",
+      "artist": "",
+      "boothName": "스튜디오묘",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG13",
+      "artist": "",
+      "boothName": "YNOT",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG14",
+      "artist": "",
+      "boothName": "Urban Oasis",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG15",
+      "artist": "",
+      "boothName": "디멘션뷰",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG16",
+      "artist": "",
+      "boothName": "루나게임즈",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG17",
+      "artist": "",
+      "boothName": "Purple Beam",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG18",
+      "artist": "",
+      "boothName": "브루트포스",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG19",
+      "artist": "",
+      "boothName": "네버더리스 스튜디오",
+      "genre": ""
+    },
+    {
+      "boothNo": "IDG20",
+      "artist": "",
+      "boothName": "Vittgen",
+      "genre": ""
+    }
+  ]
+}
