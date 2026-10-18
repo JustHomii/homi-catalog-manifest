@@ -1,14 +1,21 @@
 {
-  "eventTitle": "일러스타페스 14",
+  "eventTitle": "코믹월드와 코미버스!",
   "cards": [
     {
-      "label": "통합 카탈로그",
-      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.webp",
+      "label": "코믹월드 338 수원 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog3.jpg",
       "catalogUrl": "",
-      "url": "https://drive.google.com/drive/folders/1SDBAlDckw6l_ZXpijkComx3t6uaEeAlm?usp=sharing",
-      "sourceUrl": "https://x.com/hwanil_KR/status/2079905420098031949?s=20",
+      "url": "https://drive.google.com/drive/folders/1CwTW6sbXUA7N_oSELUGDlnXcBOrLx3UL?usp=sharing",
+      "sourceUrl": "https://x.com/tayus_dbstory/status/2106367021432865252?s=20",
       "badge": "NEW"
-    }
+    },
+    {
+      "label": "코미버스 2026 가을 카탈로그",
+      "imageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/catalog/catalog2.jpg",
+      "catalogUrl": "",
+      "url": "",
+      "sourceUrl": "https://x.com/yainsida/status/2106727959809917071?s=20",
+      "badge": "NEW"
   ]
 }
 
