@@ -1,0 +1,342 @@
+{
+  "eventId": "1",
+  "updatedAt": "2026-11-05",
+  "items": [
+    {
+      "boothNo": "L-1",
+      "artist": "DBshotgun",
+      "boothName": "시나브로 연구소",
+      "genre": "블루아카이브",
+      "goods": "키캡"
+    },
+    {
+      "boothNo": "L-2",
+      "artist": "괭카, 레무네",
+      "boothName": "에리포터와 마스터의 돌",
+      "genre": "블루아카이브",
+      "goods": "타로카드, 지류, 무드등, 아크릴"
+    },
+    {
+      "boothNo": "L-3",
+      "artist": "DANO, 라베",
+      "boothName": "책 팜 .",
+      "genre": "블루아카이브",
+      "goods": "캔버스, 소설, 만화책, 지류"
+    },
+    {
+      "boothNo": "L-4",
+      "artist": "오지비",
+      "boothName": "선물OFF마리",
+      "genre": "블루아카이브",
+      "goods": "만화책, 키링, 티셔츠, 패드"
+    },
+    {
+      "boothNo": "L-5",
+      "artist": "슈빌, A4",
+      "boothName": "슈빌공방 모형제작소 강철대륙지점",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "L-6",
+      "artist": "Atlas",
+      "boothName": "오마이고또잇츠겜발부",
+      "genre": "블루아카이브",
+      "goods": "지류, 디오라마, 키링, 실용, 컵"
+    },
+    {
+      "boothNo": "L-7",
+      "artist": "첫라인, shunivallentine",
+      "boothName": "일단은 ! 쓰다듬고 생각하기 !",
+      "genre": "블루아카이브",
+      "goods": "디오라마"
+    },
+    {
+      "boothNo": "L-8",
+      "artist": "하지켈록",
+      "boothName": "코누리바이러스19",
+      "genre": "블루아카이브",
+      "goods": "만화책, 지류, 티셔츠, 코롯토, 디오라마"
+    },
+    {
+      "boothNo": "L-9",
+      "artist": "KINOs",
+      "boothName": "키보토스 우체국",
+      "genre": "블루아카이브",
+      "goods": "키링, 지류"
+    },
+    {
+      "boothNo": "L-10",
+      "artist": "MaNa",
+      "boothName": "이치카의 생일파티",
+      "genre": "블루아카이브",
+      "goods": "일러북, 패드, 여권케이스, 스탠드, 키링, 지류"
+    },
+    {
+      "boothNo": "L-11",
+      "artist": "알고리즘",
+      "boothName": "알고리즘",
+      "genre": "블루아카이브",
+      "goods": "일러북, 보조배터리, 에코백, 실용, 패드, 담요, 스탠드, 무드등, 키링, 지류"
+    },
+    {
+      "boothNo": "L-12",
+      "artist": "HRNa, Nakun",
+      "boothName": "레트로빈티지드림코어스푼",
+      "genre": "블루아카이브",
+      "goods": "일러북, 에코백, 지류, 실용, 카드케이스"
+    },
+    {
+      "boothNo": "L-13",
+      "artist": "아서",
+      "boothName": "취향이라는 이름의 선물",
+      "genre": "블루아카이브",
+      "goods": "만화책, 도장, 지류, 에코백, 스탠드, 실용, 여권케이스, 키링"
+    },
+    {
+      "boothNo": "L-14",
+      "artist": "Sab(삽)",
+      "boothName": "인연스토리Ex-은혜갚기",
+      "genre": "블루아카이브",
+      "goods": "일러북, 스탠드, 지류, 색지"
+    },
+    {
+      "boothNo": "L-15",
+      "artist": "노우니",
+      "boothName": "버드스트라이크",
+      "genre": "블루아카이브",
+      "goods": "키캡, 마우스, 팜래스트, 패드, 키보드"
+    },
+    {
+      "boothNo": "L-16",
+      "artist": "LanuBis",
+      "boothName": "히후아즈는 정의",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "L-17",
+      "artist": "오페라불카누스",
+      "boothName": "오페라 불카누스",
+      "genre": "블루아카이브",
+      "goods": "주화"
+    },
+    {
+      "boothNo": "L-18",
+      "artist": "winterflower",
+      "boothName": "블루아르카나",
+      "genre": "블루아카이브",
+      "goods": "일러북, 패드, 타로카드"
+    },
+    {
+      "boothNo": "L-19",
+      "artist": "HARUSARI",
+      "boothName": "리틀가든",
+      "genre": "블루아카이브",
+      "goods": "티셔츠, 키링, 디오라마, 패드, 스탠드"
+    },
+    {
+      "boothNo": "L-20",
+      "artist": "raw beef, linear ring",
+      "boothName": "Remix☆DOTABATA!",
+      "genre": "블루아카이브",
+      "goods": "음악앨범, 일러북"
+    },
+    {
+      "boothNo": "L-21",
+      "artist": "REPLICUIR",
+      "boothName": "샬레부설 가죽공예부",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "L-22",
+      "artist": "조랑",
+      "boothName": "감사의 정권 지르기",
+      "genre": "블루아카이브",
+      "goods": "일러북, 지류"
+    },
+    {
+      "boothNo": "L-23",
+      "artist": "Tankman_1998",
+      "boothName": "뚝딱뚝딱! 모형점",
+      "genre": "블루아카이브",
+      "goods": "피규어"
+    },
+    {
+      "boothNo": "L-24",
+      "artist": "Pang-Yo, LueNar",
+      "boothName": "미소녀체온관리보고서",
+      "genre": "블루아카이브",
+      "goods": "다키마쿠라, 디오라마, 실용, 안대, 스탠드, 티셔츠, 색지"
+    },
+    {
+      "boothNo": "L-25",
+      "artist": "H.B.",
+      "boothName": "키보토스 손뜨개 공방",
+      "genre": "블루아카이브",
+      "goods": "인형"
+    },
+    {
+      "boothNo": "L-26",
+      "artist": "AppleCaramel",
+      "boothName": "로맨틱 화이트&핑크 선물 대작전!",
+      "genre": "블루아카이브",
+      "goods": "키링, 스탠드, 지류"
+    },
+    {
+      "boothNo": "L-27",
+      "artist": "가마",
+      "boothName": "산해경 네코타 공방 하청업체",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "L-28",
+      "artist": "ODSY",
+      "boothName": "Wildhunt Wedding Day",
+      "genre": "블루아카이브",
+      "goods": "족자봉, 키링, 스탠드"
+    },
+    {
+      "boothNo": "R-1",
+      "artist": "레바",
+      "boothName": "레바스튜디오",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "R-2",
+      "artist": "라떼",
+      "boothName": "호제비 분양해요",
+      "genre": "블루아카이브",
+      "goods": "만화책, 패드, 지류, 키링"
+    },
+    {
+      "boothNo": "R-3",
+      "artist": "세치혀 Pang",
+      "boothName": "쭈굴쭈굴쭈굴쭈굴쭈굴",
+      "genre": "블루아카이브",
+      "goods": "만화책, 디오라마, 패드, 키캡, 스탠드"
+    },
+    {
+      "boothNo": "R-4",
+      "artist": "얀(Yarn), 습구(SBGU)",
+      "boothName": "오늘만 주인님",
+      "genre": "블루아카이브",
+      "goods": "일러북, 패드, 스탠드, 키링, 색지, 지류"
+    },
+    {
+      "boothNo": "R-5",
+      "artist": "난눙",
+      "boothName": "토끼는 뿅뿅하고 우나요?",
+      "genre": "블루아카이브",
+      "goods": "디오라마, 일러북, 색지, 스탠드, 도장, 코롯토"
+    },
+    {
+      "boothNo": "R-6",
+      "artist": "리스, 아리아",
+      "boothName": "말랑쫑긋",
+      "genre": "블루아카이브",
+      "goods": "일러북, 지류, 무드등, 핫피, 스탠드"
+    },
+    {
+      "boothNo": "R-7",
+      "artist": "양갱왕, 코쿠큐커",
+      "boothName": "코쿠양갱아울렛XYZ",
+      "genre": "블루아카이브",
+      "goods": "만화책, 일러북, 스탠드, 머그컵, 키링, 지류"
+    },
+    {
+      "boothNo": "R-8",
+      "artist": "BADA, riko",
+      "boothName": "농빵협동조합",
+      "genre": "블루아카이브",
+      "goods": "일러북, 키링, 수건, 실용, 지류, 디오라마, 스탠드"
+    },
+    {
+      "boothNo": "R-9",
+      "artist": "bmtol, lulalang",
+      "boothName": "감사 인사는 파산 뒤에",
+      "genre": "블루아카이브",
+      "goods": "지류, 카드게임, 일러북, 스탠드, 패드, 키캡, 아크릴블럭"
+    },
+    {
+      "boothNo": "R-10",
+      "artist": "MOYA, SADME",
+      "boothName": "제 학생들을 부탁합니다.",
+      "genre": "블루아카이브",
+      "goods": "디오라마, 지류, 아크릴액자, 실용, 코롯토, 스탠드"
+    },
+    {
+      "boothNo": "R-11",
+      "artist": "Zeroku",
+      "boothName": "정실히나만 뭉탱이로 !!!",
+      "genre": "블루아카이브",
+      "goods": "만화책, 키링, 스탠드, 도장"
+    },
+    {
+      "boothNo": "R-12",
+      "artist": "요굴우트, 로하",
+      "boothName": "로하네 요굴우트",
+      "genre": "블루아카이브",
+      "goods": "일러북, 스탠드, 패드"
+    },
+    {
+      "boothNo": "R-13",
+      "artist": "호르 HoR",
+      "boothName": "1000일동안 말랑마리!!!",
+      "genre": "블루아카이브",
+      "goods": "만화책, 달력, 뱃지, 패드, 쿠션, 키링, 코롯토, 실용"
+    },
+    {
+      "boothNo": "R-14",
+      "artist": "DONG_Ji",
+      "boothName": "청색편이",
+      "genre": "블루아카이브",
+      "goods": "일러북, 지류, 키링, 스탠드"
+    },
+    {
+      "boothNo": "R-15",
+      "artist": "22 DRO, NE0N",
+      "boothName": "무빙 아카이브!",
+      "genre": "블루아카이브",
+      "goods": "만화책, 스탠드, 지류"
+    },
+    {
+      "boothNo": "R-16",
+      "artist": "KUMI",
+      "boothName": "밀레니엄 서프라이즈 기획실",
+      "genre": "블루아카이브",
+      "goods": "일러북, 디오라마, 스탠드, 키링, 포스터"
+    },
+    {
+      "boothNo": "R-17",
+      "artist": "Leviathan, ポムプ",
+      "boothName": "오마이고또!!",
+      "genre": "블루아카이브",
+      "goods": "보드게임, 키링"
+    },
+    {
+      "boothNo": "R-18",
+      "artist": "수빈",
+      "boothName": "태양의숲",
+      "genre": "블루아카이브",
+      "goods": "인형, 스탠드, 실용, 다키마쿠라, 티셔츠"
+    },
+    {
+      "boothNo": "R-19",
+      "artist": "Manew",
+      "boothName": "아야메눈뜰때까지숨참음",
+      "genre": "블루아카이브",
+      "goods": ""
+    },
+    {
+      "boothNo": "R-20",
+      "artist": "딜로, M.Q",
+      "boothName": "B.C.C.C",
+      "genre": "블루아카이브",
+      "goods": "카드게임, 아크릴, 바인더"
+    }
+  ]
+}
