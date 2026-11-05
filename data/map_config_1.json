@@ -1,0 +1,35 @@
+{
+  "eventId": "bluearchive",
+  "version": 2,
+  "mapImageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/maps/sat.png",
+  "columns": [
+    {
+      "prefix": "L",
+      "segments": [
+        {
+          "from": 1,
+          "to": 28,
+          "direction": "bottomToTop",
+          "left": 0.142498,
+          "top": 0.34869,
+          "width": 0.036934,
+          "height": 0.56791
+        }
+      ]
+    },
+    {
+      "prefix": "R",
+      "segments": [
+        {
+          "from": 1,
+          "to": 20,
+          "direction": "bottomToTop",
+          "left": 0.808886,
+          "top": 0.348489,
+          "width": 0.036353,
+          "height": 0.566443
+        }
+      ]
+    }
+  ]
+}

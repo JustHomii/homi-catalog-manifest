@@ -1,0 +1,35 @@
+{
+  "eventId": "bluearchive",
+  "version": 2,
+  "mapImageUrl": "https://raw.githubusercontent.com/JustHomii/homi-catalog-manifest/refs/heads/main/maps/sun.png",
+  "columns": [
+    {
+      "prefix": "L",
+      "segments": [
+        {
+          "from": 1,
+          "to": 29,
+          "direction": "bottomToTop",
+          "left": 0.146993,
+          "top": 0.342325,
+          "width": 0.035083,
+          "height": 0.579918
+        }
+      ]
+    },
+    {
+      "prefix": "R",
+      "segments": [
+        {
+          "from": 1,
+          "to": 20,
+          "direction": "bottomToTop",
+          "left": 0.801205,
+          "top": 0.342516,
+          "width": 0.043601,
+          "height": 0.582133
+        }
+      ]
+    }
+  ]
+}
