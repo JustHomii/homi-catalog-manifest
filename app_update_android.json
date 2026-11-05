@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": 3,
+  "version": 4,
   "title": "카탈로그 앱 업데이트!",
-  "message": "코믹월드 330 일산 부스목록을 최신화하었습니다!",
+  "message": "여러가지 업데이트 및 최적화 진행했습니다!",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ilmangdong.homicatalog",
   "force": false
 }
